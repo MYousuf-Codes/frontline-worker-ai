@@ -52,7 +52,7 @@ export function WorkflowSection() {
                   </div>
                 </Card>
               </div>
-              <ArrowDown className="h-8 w-8 text-muted-foreground rotate-90 md:rotate-180" />
+              <ArrowDown className="h-8 w-8 text-muted-foreground" />
             </div>
 
             {/* Step 2: Agent Collaboration */}
@@ -83,7 +83,7 @@ export function WorkflowSection() {
                   </div>
                 </Card>
               </div>
-              <ArrowDown className="h-8 w-8 text-muted-foreground rotate-90 md:rotate-180" />
+              <ArrowDown className="h-8 w-8 text-muted-foreground" />
             </div>
 
             {/* Step 3: Coordinated Response */}
@@ -122,7 +122,7 @@ export function WorkflowSection() {
                   </div>
                 </Card>
               </div>
-              <ArrowDown className="h-8 w-8 text-muted-foreground rotate-90 md:rotate-180" />
+              <ArrowDown className="h-8 w-8 text-muted-foreground" />
             </div>
 
             {/* Step 4: Resolution & Follow-up */}
@@ -156,11 +156,12 @@ export function WorkflowSection() {
                   </div>
                 </Card>
               </div>
+              {/* Success indicator for final step */}
+              <div className="flex items-center justify-center w-16 h-16 bg-gradient-to-br from-secondary/20 to-secondary/30 rounded-full border-2 border-secondary/40 shadow-lg">
+                <CheckCircle className="h-8 w-8 text-secondary animate-pulse" />
+              </div>
             </div>
           </div>
-
-          {/* Connecting line */}
-          <div className="absolute left-6 top-16 bottom-16 w-0.5 bg-gradient-to-b from-primary via-secondary to-purple-400 opacity-30 hidden md:block" />
         </div>
       </div>
     </section>
