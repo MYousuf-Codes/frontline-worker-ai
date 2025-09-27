@@ -1,0 +1,3522 @@
+[
+  {
+    "case_id": "C-0001",
+    "citizen_id": "P-2001",
+    "request_text": "Suspicious activity near my house, possible burglary attempt.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-06-24T14:49:54",
+    "citizen_profile": {
+      "full_name": "Ali Gill",
+      "age": 56,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "ali.gill@example123.com",
+        "phone": "+923890001225"
+      }
+    }
+  },
+  {
+    "case_id": "C-0002",
+    "citizen_id": "P-2002",
+    "request_text": "School building partially collapsed, students need rescue.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-02-24T09:26:27",
+    "citizen_profile": {
+      "full_name": "Rabia Abbasi",
+      "age": 45,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "rabia.abbasi@example123.com",
+        "phone": "+923441550817"
+      }
+    }
+  },
+  {
+    "case_id": "C-0003",
+    "citizen_id": "P-2003",
+    "request_text": "Flash flood reported, villagers trapped in low-lying area.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-04-19T14:35:23",
+    "citizen_profile": {
+      "full_name": "Sadia Hussain",
+      "age": 62,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "sadia.hussain@example123.com",
+        "phone": "+923633185990"
+      }
+    }
+  },
+  {
+    "case_id": "C-0004",
+    "citizen_id": "P-2004",
+    "request_text": "Flash flood reported, villagers trapped in low-lying area.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-01-08T17:04:34",
+    "citizen_profile": {
+      "full_name": "Fatima Siddiqui",
+      "age": 53,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "fatima.siddiqui@example123.com",
+        "phone": "+923617673808"
+      }
+    }
+  },
+  {
+    "case_id": "C-0005",
+    "citizen_id": "P-2005",
+    "request_text": "I need a water connection permit for my new house.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-06-22T03:24:34",
+    "citizen_profile": {
+      "full_name": "Fatima Rashid",
+      "age": 52,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "fatima.rashid@example123.com",
+        "phone": "+923870437396"
+      }
+    }
+  },
+  {
+    "case_id": "C-0006",
+    "citizen_id": "P-2006",
+    "request_text": "I was scammed in an online purchase. Need cybercrime cell assistance.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-06-12T03:46:18",
+    "citizen_profile": {
+      "full_name": "Fatima Hussain",
+      "age": 40,
+      "location": "Peoples Colony, Faisalabad",
+      "contact_info": {
+        "email": "fatima.hussain@example123.com",
+        "phone": "+923447398708"
+      }
+    }
+  },
+  {
+    "case_id": "C-0007",
+    "citizen_id": "P-2007",
+    "request_text": "Broken sewerage line needs immediate repair.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-06-05T17:10:32",
+    "citizen_profile": {
+      "full_name": "Maryam Malik",
+      "age": 41,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "maryam.malik@example123.com",
+        "phone": "+923175292622"
+      }
+    }
+  },
+  {
+    "case_id": "C-0008",
+    "citizen_id": "P-2008",
+    "request_text": "Accident occurred on the road, one person bleeding heavily.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-02-25T00:39:57",
+    "citizen_profile": {
+      "full_name": "Hina Shah",
+      "age": 21,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "hina.shah@example123.com",
+        "phone": "+923204449457"
+      }
+    }
+  },
+  {
+    "case_id": "C-0009",
+    "citizen_id": "P-2009",
+    "request_text": "Accident occurred on the road, one person bleeding heavily.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-07-18T16:59:55",
+    "citizen_profile": {
+      "full_name": "Noor Ansari",
+      "age": 29,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "noor.ansari@example123.com",
+        "phone": "+923963120416"
+      }
+    }
+  },
+  {
+    "case_id": "C-0010",
+    "citizen_id": "P-2010",
+    "request_text": "Streets submerged, family stranded, need rescue boats.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-02-16T02:56:26",
+    "citizen_profile": {
+      "full_name": "Nida Javed",
+      "age": 59,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "nida.javed@example123.com",
+        "phone": "+923768195783"
+      }
+    }
+  },
+  {
+    "case_id": "C-0011",
+    "citizen_id": "P-2011",
+    "request_text": "Traffic signal malfunctioning, causing road accidents.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-07-12T03:39:50",
+    "citizen_profile": {
+      "full_name": "Ali Rashid",
+      "age": 67,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "ali.rashid@example123.com",
+        "phone": "+923433179682"
+      }
+    }
+  },
+  {
+    "case_id": "C-0012",
+    "citizen_id": "P-2012",
+    "request_text": "Flood water entering house, need evacuation to safe shelter.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-04-27T18:27:28",
+    "citizen_profile": {
+      "full_name": "Ahmed Javed",
+      "age": 21,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "ahmed.javed@example123.com",
+        "phone": "+923846179079"
+      }
+    }
+  },
+  {
+    "case_id": "C-0013",
+    "citizen_id": "P-2013",
+    "request_text": "My child has severe diarrhea and dehydration. Need urgent care.",
+    "request_type": "Medical Triage",
+    "timestamp": "2025-07-05T01:38:23",
+    "citizen_profile": {
+      "full_name": "Usman Siddiqui",
+      "age": 52,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "usman.siddiqui@example123.com",
+        "phone": "+923436329452"
+      }
+    }
+  },
+  {
+    "case_id": "C-0014",
+    "citizen_id": "P-2014",
+    "request_text": "Mobile phone snatching incident occurred on the street.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-09-10T08:35:45",
+    "citizen_profile": {
+      "full_name": "Hassan Iftikhar",
+      "age": 57,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "hassan.iftikhar@example123.com",
+        "phone": "+923141797415"
+      }
+    }
+  },
+  {
+    "case_id": "C-0015",
+    "citizen_id": "P-2015",
+    "request_text": "I need a water connection permit for my new house.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-07-07T02:18:24",
+    "citizen_profile": {
+      "full_name": "Hina Chaudhry",
+      "age": 45,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "hina.chaudhry@example123.com",
+        "phone": "+923322944164"
+      }
+    }
+  },
+  {
+    "case_id": "C-0016",
+    "citizen_id": "P-2016",
+    "request_text": "Streetlights not working in our area for 2 weeks.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-06-04T23:40:03",
+    "citizen_profile": {
+      "full_name": "Imran Qureshi",
+      "age": 39,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "imran.qureshi@example123.com",
+        "phone": "+923498392203"
+      }
+    }
+  },
+  {
+    "case_id": "C-0017",
+    "citizen_id": "P-2017",
+    "request_text": "Flash flood reported, villagers trapped in low-lying area.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-04-08T11:30:40",
+    "citizen_profile": {
+      "full_name": "Farhan Gill",
+      "age": 44,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "farhan.gill@example123.com",
+        "phone": "+923641970164"
+      }
+    }
+  },
+  {
+    "case_id": "C-0018",
+    "citizen_id": "P-2018",
+    "request_text": "Suspicious abandoned car near the mosque, need inspection.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-07-05T05:33:04",
+    "citizen_profile": {
+      "full_name": "Bilal Sheikh",
+      "age": 65,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "bilal.sheikh@example123.com",
+        "phone": "+923433607098"
+      }
+    }
+  },
+  {
+    "case_id": "C-0019",
+    "citizen_id": "P-2019",
+    "request_text": "Multiple stray dogs biting children in the playground.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-03-19T16:33:22",
+    "citizen_profile": {
+      "full_name": "Hamza Qureshi",
+      "age": 21,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "hamza.qureshi@example123.com",
+        "phone": "+923984100608"
+      }
+    }
+  },
+  {
+    "case_id": "C-0020",
+    "citizen_id": "P-2020",
+    "request_text": "School building partially collapsed, students need rescue.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-08-06T11:45:41",
+    "citizen_profile": {
+      "full_name": "Fatima Siddiqui",
+      "age": 43,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "fatima.siddiqui@example123.com",
+        "phone": "+923491246422"
+      }
+    }
+  },
+  {
+    "case_id": "C-0021",
+    "citizen_id": "P-2021",
+    "request_text": "Gas cylinder explosion in neighborhood house, flames spreading.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-07-12T08:34:30",
+    "citizen_profile": {
+      "full_name": "Hassan Sheikh",
+      "age": 33,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "hassan.sheikh@example123.com",
+        "phone": "+923454582371"
+      }
+    }
+  },
+  {
+    "case_id": "C-0022",
+    "citizen_id": "P-2022",
+    "request_text": "Received fraudulent call asking for bank details.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-02-25T14:56:47",
+    "citizen_profile": {
+      "full_name": "Sara Rashid",
+      "age": 22,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "sara.rashid@example123.com",
+        "phone": "+923425174572"
+      }
+    }
+  },
+  {
+    "case_id": "C-0023",
+    "citizen_id": "P-2023",
+    "request_text": "Flash flood reported, villagers trapped in low-lying area.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-05-24T07:10:58",
+    "citizen_profile": {
+      "full_name": "Khadija Dar",
+      "age": 21,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "khadija.dar@example123.com",
+        "phone": "+923963429295"
+      }
+    }
+  },
+  {
+    "case_id": "C-0024",
+    "citizen_id": "P-2024",
+    "request_text": "Suspicious activity near my house, possible burglary attempt.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-01-21T20:43:11",
+    "citizen_profile": {
+      "full_name": "Imran Butt",
+      "age": 63,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "imran.butt@example123.com",
+        "phone": "+923924501281"
+      }
+    }
+  },
+  {
+    "case_id": "C-0025",
+    "citizen_id": "P-2025",
+    "request_text": "Need polio vaccination for my child.",
+    "request_type": "Public Health Service",
+    "timestamp": "2025-09-15T00:50:02",
+    "citizen_profile": {
+      "full_name": "Sadia Dar",
+      "age": 56,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "sadia.dar@example123.com",
+        "phone": "+923483367710"
+      }
+    }
+  },
+  {
+    "case_id": "C-0026",
+    "citizen_id": "P-2026",
+    "request_text": "Flood water entering house, need evacuation to safe shelter.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-05-06T20:42:35",
+    "citizen_profile": {
+      "full_name": "Bilal Javed",
+      "age": 24,
+      "location": "Peoples Colony, Faisalabad",
+      "contact_info": {
+        "email": "bilal.javed@example123.com",
+        "phone": "+923726354870"
+      }
+    }
+  },
+  {
+    "case_id": "C-0027",
+    "citizen_id": "P-2027",
+    "request_text": "Electric short-circuit caused fire in office, need fire brigade.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-04-23T22:08:11",
+    "citizen_profile": {
+      "full_name": "Maryam Qureshi",
+      "age": 68,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "maryam.qureshi@example123.com",
+        "phone": "+923302722490"
+      }
+    }
+  },
+  {
+    "case_id": "C-0028",
+    "citizen_id": "P-2028",
+    "request_text": "School building partially collapsed, students need rescue.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-02-15T18:49:33",
+    "citizen_profile": {
+      "full_name": "Hamza Khan",
+      "age": 31,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "hamza.khan@example123.com",
+        "phone": "+923146432833"
+      }
+    }
+  },
+  {
+    "case_id": "C-0029",
+    "citizen_id": "P-2029",
+    "request_text": "Flood water entering house, need evacuation to safe shelter.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-09-14T13:44:27",
+    "citizen_profile": {
+      "full_name": "Nida Raza",
+      "age": 26,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "nida.raza@example123.com",
+        "phone": "+923776861176"
+      }
+    }
+  },
+  {
+    "case_id": "C-0030",
+    "citizen_id": "P-2030",
+    "request_text": "My debit card has unauthorized transactions, please investigate.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-06-01T22:31:40",
+    "citizen_profile": {
+      "full_name": "Imran Shah",
+      "age": 31,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "imran.shah@example123.com",
+        "phone": "+923682914795"
+      }
+    }
+  },
+  {
+    "case_id": "C-0031",
+    "citizen_id": "P-2031",
+    "request_text": "I was scammed in an online purchase. Need cybercrime cell assistance.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-02-08T07:35:46",
+    "citizen_profile": {
+      "full_name": "Sadia Rashid",
+      "age": 69,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "sadia.rashid@example123.com",
+        "phone": "+923468979349"
+      }
+    }
+  },
+  {
+    "case_id": "C-0032",
+    "citizen_id": "P-2032",
+    "request_text": "Robbery reported in our shop, need police assistance.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-05-01T16:06:27",
+    "citizen_profile": {
+      "full_name": "Rabia Malik",
+      "age": 20,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "rabia.malik@example123.com",
+        "phone": "+923273884811"
+      }
+    }
+  },
+  {
+    "case_id": "C-0033",
+    "citizen_id": "P-2033",
+    "request_text": "Mobile phone snatching incident occurred on the street.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-09-17T06:20:09",
+    "citizen_profile": {
+      "full_name": "Noor Raza",
+      "age": 55,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "noor.raza@example123.com",
+        "phone": "+923558510915"
+      }
+    }
+  },
+  {
+    "case_id": "C-0034",
+    "citizen_id": "P-2034",
+    "request_text": "A bus and rickshaw collision with multiple injuries reported.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-07-09T16:30:43",
+    "citizen_profile": {
+      "full_name": "Zain Butt",
+      "age": 20,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "zain.butt@example123.com",
+        "phone": "+923521428612"
+      }
+    }
+  },
+  {
+    "case_id": "C-0035",
+    "citizen_id": "P-2035",
+    "request_text": "I need a water connection permit for my new house.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-07-17T00:44:26",
+    "citizen_profile": {
+      "full_name": "Maryam Rashid",
+      "age": 55,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "maryam.rashid@example123.com",
+        "phone": "+923804811018"
+      }
+    }
+  },
+  {
+    "case_id": "C-0036",
+    "citizen_id": "P-2036",
+    "request_text": "Flood water entering house, need evacuation to safe shelter.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-09-17T09:20:39",
+    "citizen_profile": {
+      "full_name": "Usman Ansari",
+      "age": 42,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "usman.ansari@example123.com",
+        "phone": "+923918216051"
+      }
+    }
+  },
+  {
+    "case_id": "C-0037",
+    "citizen_id": "P-2037",
+    "request_text": "Electric short-circuit caused fire in office, need fire brigade.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-05-29T11:05:29",
+    "citizen_profile": {
+      "full_name": "Bilal Javed",
+      "age": 54,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "bilal.javed@example123.com",
+        "phone": "+923754912030"
+      }
+    }
+  },
+  {
+    "case_id": "C-0038",
+    "citizen_id": "P-2038",
+    "request_text": "I was scammed in an online purchase. Need cybercrime cell assistance.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-01-15T01:02:17",
+    "citizen_profile": {
+      "full_name": "Sadia Malik",
+      "age": 21,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "sadia.malik@example123.com",
+        "phone": "+923660599177"
+      }
+    }
+  },
+  {
+    "case_id": "C-0039",
+    "citizen_id": "P-2039",
+    "request_text": "Streets submerged, family stranded, need rescue boats.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-08-21T07:29:49",
+    "citizen_profile": {
+      "full_name": "Khadija Dar",
+      "age": 47,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "khadija.dar@example123.com",
+        "phone": "+923696071060"
+      }
+    }
+  },
+  {
+    "case_id": "C-0040",
+    "citizen_id": "P-2040",
+    "request_text": "Received fraudulent call asking for bank details.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-07-13T22:26:56",
+    "citizen_profile": {
+      "full_name": "Imran Hussain",
+      "age": 20,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "imran.hussain@example123.com",
+        "phone": "+923398300710"
+      }
+    }
+  },
+  {
+    "case_id": "C-0041",
+    "citizen_id": "P-2041",
+    "request_text": "Received fraudulent call asking for bank details.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-01-25T18:37:11",
+    "citizen_profile": {
+      "full_name": "Noor Iftikhar",
+      "age": 21,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "noor.iftikhar@example123.com",
+        "phone": "+923954707128"
+      }
+    }
+  },
+  {
+    "case_id": "C-0042",
+    "citizen_id": "P-2042",
+    "request_text": "There is a fire in our apartment kitchen, need Rescue 1122 immediately.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-05-01T12:55:29",
+    "citizen_profile": {
+      "full_name": "Usman Butt",
+      "age": 64,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "usman.butt@example123.com",
+        "phone": "+923410400464"
+      }
+    }
+  },
+  {
+    "case_id": "C-0043",
+    "citizen_id": "P-2043",
+    "request_text": "Suspicious abandoned car near the mosque, need inspection.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-02-01T18:09:17",
+    "citizen_profile": {
+      "full_name": "Noor Ansari",
+      "age": 19,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "noor.ansari@example123.com",
+        "phone": "+923187757639"
+      }
+    }
+  },
+  {
+    "case_id": "C-0044",
+    "citizen_id": "P-2044",
+    "request_text": "Streets submerged, family stranded, need rescue boats.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-06-22T01:40:46",
+    "citizen_profile": {
+      "full_name": "Ahmed Malik",
+      "age": 50,
+      "location": "Peoples Colony, Faisalabad",
+      "contact_info": {
+        "email": "ahmed.malik@example123.com",
+        "phone": "+923668910979"
+      }
+    }
+  },
+  {
+    "case_id": "C-0045",
+    "citizen_id": "P-2045",
+    "request_text": "Strong tremors damaged house walls, need inspection and relief.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-06-22T21:52:14",
+    "citizen_profile": {
+      "full_name": "Bilal Ansari",
+      "age": 28,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "bilal.ansari@example123.com",
+        "phone": "+923723490851"
+      }
+    }
+  },
+  {
+    "case_id": "C-0046",
+    "citizen_id": "P-2046",
+    "request_text": "Received fraudulent call asking for bank details.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-03-25T02:55:54",
+    "citizen_profile": {
+      "full_name": "Ayesha Dar",
+      "age": 50,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "ayesha.dar@example123.com",
+        "phone": "+923248298208"
+      }
+    }
+  },
+  {
+    "case_id": "C-0047",
+    "citizen_id": "P-2047",
+    "request_text": "Robbery reported in our shop, need police assistance.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-09-01T11:46:29",
+    "citizen_profile": {
+      "full_name": "Fatima Chaudhry",
+      "age": 65,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "fatima.chaudhry@example123.com",
+        "phone": "+923805245527"
+      }
+    }
+  },
+  {
+    "case_id": "C-0048",
+    "citizen_id": "P-2048",
+    "request_text": "My child has severe diarrhea and dehydration. Need urgent care.",
+    "request_type": "Medical Triage",
+    "timestamp": "2025-06-01T21:19:58",
+    "citizen_profile": {
+      "full_name": "Hina Ansari",
+      "age": 61,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "hina.ansari@example123.com",
+        "phone": "+923155120328"
+      }
+    }
+  },
+  {
+    "case_id": "C-0049",
+    "citizen_id": "P-2049",
+    "request_text": "There is a fire in our apartment kitchen, need Rescue 1122 immediately.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-03-27T13:04:12",
+    "citizen_profile": {
+      "full_name": "Sadia Baloch",
+      "age": 35,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "sadia.baloch@example123.com",
+        "phone": "+923778402725"
+      }
+    }
+  },
+  {
+    "case_id": "C-0050",
+    "citizen_id": "P-2050",
+    "request_text": "Traffic signal malfunctioning, causing road accidents.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-04-11T11:45:49",
+    "citizen_profile": {
+      "full_name": "Ali Shah",
+      "age": 60,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "ali.shah@example123.com",
+        "phone": "+923402901395"
+      }
+    }
+  },
+  {
+    "case_id": "C-0051",
+    "citizen_id": "P-2051",
+    "request_text": "School building partially collapsed, students need rescue.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-01-29T16:13:27",
+    "citizen_profile": {
+      "full_name": "Maryam Ansari",
+      "age": 37,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "maryam.ansari@example123.com",
+        "phone": "+923273574075"
+      }
+    }
+  },
+  {
+    "case_id": "C-0052",
+    "citizen_id": "P-2052",
+    "request_text": "School building partially collapsed, students need rescue.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-02-10T21:36:31",
+    "citizen_profile": {
+      "full_name": "Hamza Chaudhry",
+      "age": 47,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "hamza.chaudhry@example123.com",
+        "phone": "+923139297211"
+      }
+    }
+  },
+  {
+    "case_id": "C-0053",
+    "citizen_id": "P-2053",
+    "request_text": "Broken sewerage line needs immediate repair.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-03-21T15:27:11",
+    "citizen_profile": {
+      "full_name": "Farhan Khan",
+      "age": 64,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "farhan.khan@example123.com",
+        "phone": "+923581682429"
+      }
+    }
+  },
+  {
+    "case_id": "C-0054",
+    "citizen_id": "P-2054",
+    "request_text": "Accident occurred on the road, one person bleeding heavily.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-02-01T07:28:42",
+    "citizen_profile": {
+      "full_name": "Omar Rashid",
+      "age": 58,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "omar.rashid@example123.com",
+        "phone": "+923385108287"
+      }
+    }
+  },
+  {
+    "case_id": "C-0055",
+    "citizen_id": "P-2055",
+    "request_text": "My debit card has unauthorized transactions, please investigate.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-07-03T17:13:32",
+    "citizen_profile": {
+      "full_name": "Zain Javed",
+      "age": 52,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "zain.javed@example123.com",
+        "phone": "+923845763546"
+      }
+    }
+  },
+  {
+    "case_id": "C-0056",
+    "citizen_id": "P-2056",
+    "request_text": "Requesting appointment for COVID-19 booster shot.",
+    "request_type": "Public Health Service",
+    "timestamp": "2025-06-15T18:53:31",
+    "citizen_profile": {
+      "full_name": "Imran Qureshi",
+      "age": 66,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "imran.qureshi@example123.com",
+        "phone": "+923203427692"
+      }
+    }
+  },
+  {
+    "case_id": "C-0057",
+    "citizen_id": "P-2057",
+    "request_text": "Mobile phone snatching incident occurred on the street.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-08-30T17:52:54",
+    "citizen_profile": {
+      "full_name": "Ayesha Abbasi",
+      "age": 55,
+      "location": "Peoples Colony, Faisalabad",
+      "contact_info": {
+        "email": "ayesha.abbasi@example123.com",
+        "phone": "+923613159949"
+      }
+    }
+  },
+  {
+    "case_id": "C-0058",
+    "citizen_id": "P-2058",
+    "request_text": "Severe chest pain and dizziness. Suspect heart problem.",
+    "request_type": "Medical Triage",
+    "timestamp": "2025-06-21T11:24:53",
+    "citizen_profile": {
+      "full_name": "Hassan Raza",
+      "age": 70,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "hassan.raza@example123.com",
+        "phone": "+923263918048"
+      }
+    }
+  },
+  {
+    "case_id": "C-0059",
+    "citizen_id": "P-2059",
+    "request_text": "Building collapsed after earthquake, people trapped inside.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-07-23T20:50:58",
+    "citizen_profile": {
+      "full_name": "Sara Baloch",
+      "age": 66,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "sara.baloch@example123.com",
+        "phone": "+923624513029"
+      }
+    }
+  },
+  {
+    "case_id": "C-0060",
+    "citizen_id": "P-2060",
+    "request_text": "Streetlights not working in our area for 2 weeks.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-03-05T01:59:51",
+    "citizen_profile": {
+      "full_name": "Ayesha Khan",
+      "age": 58,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "ayesha.khan@example123.com",
+        "phone": "+923243812164"
+      }
+    }
+  },
+  {
+    "case_id": "C-0061",
+    "citizen_id": "P-2061",
+    "request_text": "I was scammed in an online purchase. Need cybercrime cell assistance.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-09-22T13:07:28",
+    "citizen_profile": {
+      "full_name": "Ahmed Abbasi",
+      "age": 24,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "ahmed.abbasi@example123.com",
+        "phone": "+923139124203"
+      }
+    }
+  },
+  {
+    "case_id": "C-0062",
+    "citizen_id": "P-2062",
+    "request_text": "I was scammed in an online purchase. Need cybercrime cell assistance.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-04-22T02:24:08",
+    "citizen_profile": {
+      "full_name": "Hassan Rashid",
+      "age": 61,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "hassan.rashid@example123.com",
+        "phone": "+923369783987"
+      }
+    }
+  },
+  {
+    "case_id": "C-0063",
+    "citizen_id": "P-2063",
+    "request_text": "I was scammed in an online purchase. Need cybercrime cell assistance.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-09-12T20:48:31",
+    "citizen_profile": {
+      "full_name": "Zain Abbasi",
+      "age": 29,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "zain.abbasi@example123.com",
+        "phone": "+923763378262"
+      }
+    }
+  },
+  {
+    "case_id": "C-0064",
+    "citizen_id": "P-2064",
+    "request_text": "Suspicious abandoned car near the mosque, need inspection.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-03-26T23:32:19",
+    "citizen_profile": {
+      "full_name": "Fatima Dar",
+      "age": 59,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "fatima.dar@example123.com",
+        "phone": "+923640991821"
+      }
+    }
+  },
+  {
+    "case_id": "C-0065",
+    "citizen_id": "P-2065",
+    "request_text": "Mobile phone snatching incident occurred on the street.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-07-15T15:41:00",
+    "citizen_profile": {
+      "full_name": "Imran Hussain",
+      "age": 20,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "imran.hussain@example123.com",
+        "phone": "+923571920378"
+      }
+    }
+  },
+  {
+    "case_id": "C-0066",
+    "citizen_id": "P-2066",
+    "request_text": "Accident occurred on the road, one person bleeding heavily.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-08-24T11:47:42",
+    "citizen_profile": {
+      "full_name": "Noor Ansari",
+      "age": 26,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "noor.ansari@example123.com",
+        "phone": "+923710035830"
+      }
+    }
+  },
+  {
+    "case_id": "C-0067",
+    "citizen_id": "P-2067",
+    "request_text": "Gas cylinder explosion in neighborhood house, flames spreading.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-09-22T18:07:55",
+    "citizen_profile": {
+      "full_name": "Noor Sheikh",
+      "age": 27,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "noor.sheikh@example123.com",
+        "phone": "+923614296935"
+      }
+    }
+  },
+  {
+    "case_id": "C-0068",
+    "citizen_id": "P-2068",
+    "request_text": "Electric short-circuit caused fire in office, need fire brigade.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-01-09T14:41:57",
+    "citizen_profile": {
+      "full_name": "Zain Iftikhar",
+      "age": 28,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "zain.iftikhar@example123.com",
+        "phone": "+923339395235"
+      }
+    }
+  },
+  {
+    "case_id": "C-0069",
+    "citizen_id": "P-2069",
+    "request_text": "Suspicious abandoned car near the mosque, need inspection.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-02-25T19:17:21",
+    "citizen_profile": {
+      "full_name": "Ahmed Raza",
+      "age": 27,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "ahmed.raza@example123.com",
+        "phone": "+923258701691"
+      }
+    }
+  },
+  {
+    "case_id": "C-0070",
+    "citizen_id": "P-2070",
+    "request_text": "Flood water entering house, need evacuation to safe shelter.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-07-22T19:29:39",
+    "citizen_profile": {
+      "full_name": "Maryam Siddiqui",
+      "age": 37,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "maryam.siddiqui@example123.com",
+        "phone": "+923768244510"
+      }
+    }
+  },
+  {
+    "case_id": "C-0071",
+    "citizen_id": "P-2071",
+    "request_text": "Flash flood reported, villagers trapped in low-lying area.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-07-24T09:33:34",
+    "citizen_profile": {
+      "full_name": "Hina Chaudhry",
+      "age": 46,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "hina.chaudhry@example123.com",
+        "phone": "+923761744070"
+      }
+    }
+  },
+  {
+    "case_id": "C-0072",
+    "citizen_id": "P-2072",
+    "request_text": "Gas cylinder explosion in neighborhood house, flames spreading.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-04-03T03:44:24",
+    "citizen_profile": {
+      "full_name": "Nida Rashid",
+      "age": 25,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "nida.rashid@example123.com",
+        "phone": "+923891425646"
+      }
+    }
+  },
+  {
+    "case_id": "C-0073",
+    "citizen_id": "P-2073",
+    "request_text": "Suspicious abandoned car near the mosque, need inspection.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-09-01T22:11:51",
+    "citizen_profile": {
+      "full_name": "Hina Gill",
+      "age": 49,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "hina.gill@example123.com",
+        "phone": "+923500401407"
+      }
+    }
+  },
+  {
+    "case_id": "C-0074",
+    "citizen_id": "P-2074",
+    "request_text": "Electric short-circuit caused fire in office, need fire brigade.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-01-08T20:24:09",
+    "citizen_profile": {
+      "full_name": "Ali Dar",
+      "age": 48,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "ali.dar@example123.com",
+        "phone": "+923667446842"
+      }
+    }
+  },
+  {
+    "case_id": "C-0075",
+    "citizen_id": "P-2075",
+    "request_text": "There is a fire in our apartment kitchen, need Rescue 1122 immediately.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-04-08T14:33:05",
+    "citizen_profile": {
+      "full_name": "Sadia Dar",
+      "age": 57,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "sadia.dar@example123.com",
+        "phone": "+923475191613"
+      }
+    }
+  },
+  {
+    "case_id": "C-0076",
+    "citizen_id": "P-2076",
+    "request_text": "My debit card has unauthorized transactions, please investigate.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-02-21T15:37:23",
+    "citizen_profile": {
+      "full_name": "Maryam Abbasi",
+      "age": 65,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "maryam.abbasi@example123.com",
+        "phone": "+923693567883"
+      }
+    }
+  },
+  {
+    "case_id": "C-0077",
+    "citizen_id": "P-2077",
+    "request_text": "Suspicious abandoned car near the mosque, need inspection.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-04-06T13:34:37",
+    "citizen_profile": {
+      "full_name": "Fatima Iftikhar",
+      "age": 38,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "fatima.iftikhar@example123.com",
+        "phone": "+923269879171"
+      }
+    }
+  },
+  {
+    "case_id": "C-0078",
+    "citizen_id": "P-2078",
+    "request_text": "Streets submerged, family stranded, need rescue boats.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-01-04T11:14:44",
+    "citizen_profile": {
+      "full_name": "Imran Siddiqui",
+      "age": 58,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "imran.siddiqui@example123.com",
+        "phone": "+923519282042"
+      }
+    }
+  },
+  {
+    "case_id": "C-0079",
+    "citizen_id": "P-2079",
+    "request_text": "Received fraudulent call asking for bank details.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-01-08T08:36:49",
+    "citizen_profile": {
+      "full_name": "Zain Rashid",
+      "age": 36,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "zain.rashid@example123.com",
+        "phone": "+923386463152"
+      }
+    }
+  },
+  {
+    "case_id": "C-0080",
+    "citizen_id": "P-2080",
+    "request_text": "Building collapsed after earthquake, people trapped inside.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-05-06T02:40:37",
+    "citizen_profile": {
+      "full_name": "Hassan Sheikh",
+      "age": 34,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "hassan.sheikh@example123.com",
+        "phone": "+923782133619"
+      }
+    }
+  },
+  {
+    "case_id": "C-0081",
+    "citizen_id": "P-2081",
+    "request_text": "Elderly father fainted suddenly. Need ambulance to hospital.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-03-18T01:06:35",
+    "citizen_profile": {
+      "full_name": "Fatima Chaudhry",
+      "age": 21,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "fatima.chaudhry@example123.com",
+        "phone": "+923646087767"
+      }
+    }
+  },
+  {
+    "case_id": "C-0082",
+    "citizen_id": "P-2082",
+    "request_text": "Need polio vaccination for my child.",
+    "request_type": "Public Health Service",
+    "timestamp": "2025-08-30T19:18:59",
+    "citizen_profile": {
+      "full_name": "Farhan Qureshi",
+      "age": 32,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "farhan.qureshi@example123.com",
+        "phone": "+923351865792"
+      }
+    }
+  },
+  {
+    "case_id": "C-0083",
+    "citizen_id": "P-2083",
+    "request_text": "Suspicious abandoned car near the mosque, need inspection.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-07-01T20:53:02",
+    "citizen_profile": {
+      "full_name": "Ali Sheikh",
+      "age": 40,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "ali.sheikh@example123.com",
+        "phone": "+923250447551"
+      }
+    }
+  },
+  {
+    "case_id": "C-0084",
+    "citizen_id": "P-2084",
+    "request_text": "Streets submerged, family stranded, need rescue boats.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-04-21T07:33:57",
+    "citizen_profile": {
+      "full_name": "Ali Siddiqui",
+      "age": 42,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "ali.siddiqui@example123.com",
+        "phone": "+923264925539"
+      }
+    }
+  },
+  {
+    "case_id": "C-0085",
+    "citizen_id": "P-2085",
+    "request_text": "Streetlights not working in our area for 2 weeks.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-02-21T09:41:51",
+    "citizen_profile": {
+      "full_name": "Hassan Iftikhar",
+      "age": 54,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "hassan.iftikhar@example123.com",
+        "phone": "+923712119711"
+      }
+    }
+  },
+  {
+    "case_id": "C-0086",
+    "citizen_id": "P-2086",
+    "request_text": "I was scammed in an online purchase. Need cybercrime cell assistance.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-02-21T01:04:10",
+    "citizen_profile": {
+      "full_name": "Sara Qureshi",
+      "age": 36,
+      "location": "Peoples Colony, Faisalabad",
+      "contact_info": {
+        "email": "sara.qureshi@example123.com",
+        "phone": "+923853760781"
+      }
+    }
+  },
+  {
+    "case_id": "C-0087",
+    "citizen_id": "P-2087",
+    "request_text": "Strong tremors damaged house walls, need inspection and relief.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-02-27T15:10:03",
+    "citizen_profile": {
+      "full_name": "Ayesha Raza",
+      "age": 24,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "ayesha.raza@example123.com",
+        "phone": "+923901268987"
+      }
+    }
+  },
+  {
+    "case_id": "C-0088",
+    "citizen_id": "P-2088",
+    "request_text": "Electric short-circuit caused fire in office, need fire brigade.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-04-24T15:36:03",
+    "citizen_profile": {
+      "full_name": "Rabia Javed",
+      "age": 34,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "rabia.javed@example123.com",
+        "phone": "+923809932685"
+      }
+    }
+  },
+  {
+    "case_id": "C-0089",
+    "citizen_id": "P-2089",
+    "request_text": "Robbery reported in our shop, need police assistance.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-04-14T08:00:42",
+    "citizen_profile": {
+      "full_name": "Ayesha Qureshi",
+      "age": 64,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "ayesha.qureshi@example123.com",
+        "phone": "+923684286743"
+      }
+    }
+  },
+  {
+    "case_id": "C-0090",
+    "citizen_id": "P-2090",
+    "request_text": "I need a water connection permit for my new house.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-08-24T21:03:28",
+    "citizen_profile": {
+      "full_name": "Bilal Hussain",
+      "age": 66,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "bilal.hussain@example123.com",
+        "phone": "+923215809300"
+      }
+    }
+  },
+  {
+    "case_id": "C-0091",
+    "citizen_id": "P-2091",
+    "request_text": "I need a water connection permit for my new house.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-01-10T06:28:28",
+    "citizen_profile": {
+      "full_name": "Hina Chaudhry",
+      "age": 52,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "hina.chaudhry@example123.com",
+        "phone": "+923318708149"
+      }
+    }
+  },
+  {
+    "case_id": "C-0092",
+    "citizen_id": "P-2092",
+    "request_text": "Suspicious abandoned car near the mosque, need inspection.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-04-29T08:00:44",
+    "citizen_profile": {
+      "full_name": "Fatima Qureshi",
+      "age": 68,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "fatima.qureshi@example123.com",
+        "phone": "+923113581859"
+      }
+    }
+  },
+  {
+    "case_id": "C-0093",
+    "citizen_id": "P-2093",
+    "request_text": "Received fraudulent call asking for bank details.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-02-19T19:46:09",
+    "citizen_profile": {
+      "full_name": "Ayesha Malik",
+      "age": 40,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "ayesha.malik@example123.com",
+        "phone": "+923929010263"
+      }
+    }
+  },
+  {
+    "case_id": "C-0094",
+    "citizen_id": "P-2094",
+    "request_text": "I have a fever and cough since yesterday. Need to see a doctor.",
+    "request_type": "Medical Triage",
+    "timestamp": "2025-08-28T03:12:12",
+    "citizen_profile": {
+      "full_name": "Noor Baloch",
+      "age": 61,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "noor.baloch@example123.com",
+        "phone": "+923869792757"
+      }
+    }
+  },
+  {
+    "case_id": "C-0095",
+    "citizen_id": "P-2095",
+    "request_text": "Newborn baby requires BCG vaccine.",
+    "request_type": "Public Health Service",
+    "timestamp": "2025-08-15T08:57:09",
+    "citizen_profile": {
+      "full_name": "Hamza Siddiqui",
+      "age": 42,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "hamza.siddiqui@example123.com",
+        "phone": "+923154057072"
+      }
+    }
+  },
+  {
+    "case_id": "C-0096",
+    "citizen_id": "P-2096",
+    "request_text": "Accident occurred on the road, one person bleeding heavily.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-08-10T22:43:01",
+    "citizen_profile": {
+      "full_name": "Nida Shah",
+      "age": 70,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "nida.shah@example123.com",
+        "phone": "+923469160030"
+      }
+    }
+  },
+  {
+    "case_id": "C-0097",
+    "citizen_id": "P-2097",
+    "request_text": "I was scammed in an online purchase. Need cybercrime cell assistance.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-07-15T05:32:40",
+    "citizen_profile": {
+      "full_name": "Hamza Sheikh",
+      "age": 41,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "hamza.sheikh@example123.com",
+        "phone": "+923898729270"
+      }
+    }
+  },
+  {
+    "case_id": "C-0098",
+    "citizen_id": "P-2098",
+    "request_text": "Gas cylinder explosion in neighborhood house, flames spreading.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-05-27T06:33:44",
+    "citizen_profile": {
+      "full_name": "Omar Siddiqui",
+      "age": 42,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "omar.siddiqui@example123.com",
+        "phone": "+923560356844"
+      }
+    }
+  },
+  {
+    "case_id": "C-0099",
+    "citizen_id": "P-2099",
+    "request_text": "There is a fire in our apartment kitchen, need Rescue 1122 immediately.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-08-08T20:48:25",
+    "citizen_profile": {
+      "full_name": "Usman Chaudhry",
+      "age": 42,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "usman.chaudhry@example123.com",
+        "phone": "+923616365832"
+      }
+    }
+  },
+  {
+    "case_id": "C-0100",
+    "citizen_id": "P-2100",
+    "request_text": "Need polio vaccination for my child.",
+    "request_type": "Public Health Service",
+    "timestamp": "2025-01-11T20:03:44",
+    "citizen_profile": {
+      "full_name": "Bilal Sheikh",
+      "age": 60,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "bilal.sheikh@example123.com",
+        "phone": "+923130854486"
+      }
+    }
+  },
+  {
+    "case_id": "C-0101",
+    "citizen_id": "P-2101",
+    "request_text": "Accident occurred on the road, one person bleeding heavily.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-05-12T07:30:22",
+    "citizen_profile": {
+      "full_name": "Hamza Qureshi",
+      "age": 21,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "hamza.qureshi@example123.com",
+        "phone": "+923125826726"
+      }
+    }
+  },
+  {
+    "case_id": "C-0102",
+    "citizen_id": "P-2102",
+    "request_text": "I have a fever and cough since yesterday. Need to see a doctor.",
+    "request_type": "Medical Triage",
+    "timestamp": "2025-07-13T00:46:04",
+    "citizen_profile": {
+      "full_name": "Rabia Khan",
+      "age": 60,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "rabia.khan@example123.com",
+        "phone": "+923151570881"
+      }
+    }
+  },
+  {
+    "case_id": "C-0103",
+    "citizen_id": "P-2103",
+    "request_text": "A bus and rickshaw collision with multiple injuries reported.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-01-29T08:07:43",
+    "citizen_profile": {
+      "full_name": "Usman Siddiqui",
+      "age": 20,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "usman.siddiqui@example123.com",
+        "phone": "+923318358860"
+      }
+    }
+  },
+  {
+    "case_id": "C-0104",
+    "citizen_id": "P-2104",
+    "request_text": "Received fraudulent call asking for bank details.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-04-20T01:02:24",
+    "citizen_profile": {
+      "full_name": "Omar Qureshi",
+      "age": 34,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "omar.qureshi@example123.com",
+        "phone": "+923157029318"
+      }
+    }
+  },
+  {
+    "case_id": "C-0105",
+    "citizen_id": "P-2105",
+    "request_text": "Building collapsed after earthquake, people trapped inside.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-09-06T06:16:08",
+    "citizen_profile": {
+      "full_name": "Rabia Baloch",
+      "age": 49,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "rabia.baloch@example123.com",
+        "phone": "+923702814273"
+      }
+    }
+  },
+  {
+    "case_id": "C-0106",
+    "citizen_id": "P-2106",
+    "request_text": "I need a water connection permit for my new house.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-02-22T04:20:15",
+    "citizen_profile": {
+      "full_name": "Omar Baloch",
+      "age": 44,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "omar.baloch@example123.com",
+        "phone": "+923387559020"
+      }
+    }
+  },
+  {
+    "case_id": "C-0107",
+    "citizen_id": "P-2107",
+    "request_text": "My debit card has unauthorized transactions, please investigate.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-09-11T23:13:04",
+    "citizen_profile": {
+      "full_name": "Usman Gill",
+      "age": 43,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "usman.gill@example123.com",
+        "phone": "+923543652377"
+      }
+    }
+  },
+  {
+    "case_id": "C-0108",
+    "citizen_id": "P-2108",
+    "request_text": "Traffic signal malfunctioning, causing road accidents.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-01-06T19:41:33",
+    "citizen_profile": {
+      "full_name": "Fatima Qureshi",
+      "age": 42,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "fatima.qureshi@example123.com",
+        "phone": "+923987904410"
+      }
+    }
+  },
+  {
+    "case_id": "C-0109",
+    "citizen_id": "P-2109",
+    "request_text": "Strong tremors damaged house walls, need inspection and relief.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-08-12T17:35:37",
+    "citizen_profile": {
+      "full_name": "Imran Gill",
+      "age": 33,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "imran.gill@example123.com",
+        "phone": "+923625827356"
+      }
+    }
+  },
+  {
+    "case_id": "C-0110",
+    "citizen_id": "P-2110",
+    "request_text": "I need a water connection permit for my new house.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-05-13T16:08:26",
+    "citizen_profile": {
+      "full_name": "Rabia Javed",
+      "age": 42,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "rabia.javed@example123.com",
+        "phone": "+923263924308"
+      }
+    }
+  },
+  {
+    "case_id": "C-0111",
+    "citizen_id": "P-2111",
+    "request_text": "Electric short-circuit caused fire in office, need fire brigade.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-02-01T02:09:07",
+    "citizen_profile": {
+      "full_name": "Ayesha Rashid",
+      "age": 67,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "ayesha.rashid@example123.com",
+        "phone": "+923205544302"
+      }
+    }
+  },
+  {
+    "case_id": "C-0112",
+    "citizen_id": "P-2112",
+    "request_text": "Elderly father fainted suddenly. Need ambulance to hospital.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-01-25T08:47:13",
+    "citizen_profile": {
+      "full_name": "Hina Butt",
+      "age": 27,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "hina.butt@example123.com",
+        "phone": "+923499367583"
+      }
+    }
+  },
+  {
+    "case_id": "C-0113",
+    "citizen_id": "P-2113",
+    "request_text": "Gas cylinder explosion in neighborhood house, flames spreading.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-04-05T07:41:41",
+    "citizen_profile": {
+      "full_name": "Omar Chaudhry",
+      "age": 20,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "omar.chaudhry@example123.com",
+        "phone": "+923889006957"
+      }
+    }
+  },
+  {
+    "case_id": "C-0114",
+    "citizen_id": "P-2114",
+    "request_text": "Elderly father fainted suddenly. Need ambulance to hospital.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-02-11T05:10:20",
+    "citizen_profile": {
+      "full_name": "Farhan Dar",
+      "age": 53,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "farhan.dar@example123.com",
+        "phone": "+923507702728"
+      }
+    }
+  },
+  {
+    "case_id": "C-0115",
+    "citizen_id": "P-2115",
+    "request_text": "Flash flood reported, villagers trapped in low-lying area.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-05-05T00:38:21",
+    "citizen_profile": {
+      "full_name": "Rabia Javed",
+      "age": 21,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "rabia.javed@example123.com",
+        "phone": "+923575098529"
+      }
+    }
+  },
+  {
+    "case_id": "C-0116",
+    "citizen_id": "P-2116",
+    "request_text": "I was scammed in an online purchase. Need cybercrime cell assistance.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-02-03T09:29:25",
+    "citizen_profile": {
+      "full_name": "Imran Sheikh",
+      "age": 25,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "imran.sheikh@example123.com",
+        "phone": "+923352522246"
+      }
+    }
+  },
+  {
+    "case_id": "C-0117",
+    "citizen_id": "P-2117",
+    "request_text": "I need a water connection permit for my new house.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-07-03T11:39:14",
+    "citizen_profile": {
+      "full_name": "Nida Gill",
+      "age": 48,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "nida.gill@example123.com",
+        "phone": "+923222135794"
+      }
+    }
+  },
+  {
+    "case_id": "C-0118",
+    "citizen_id": "P-2118",
+    "request_text": "Broken sewerage line needs immediate repair.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-06-23T19:40:02",
+    "citizen_profile": {
+      "full_name": "Usman Sheikh",
+      "age": 44,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "usman.sheikh@example123.com",
+        "phone": "+923328946471"
+      }
+    }
+  },
+  {
+    "case_id": "C-0119",
+    "citizen_id": "P-2119",
+    "request_text": "Building collapsed after earthquake, people trapped inside.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-06-14T18:23:28",
+    "citizen_profile": {
+      "full_name": "Hassan Gill",
+      "age": 52,
+      "location": "Peoples Colony, Faisalabad",
+      "contact_info": {
+        "email": "hassan.gill@example123.com",
+        "phone": "+923157859296"
+      }
+    }
+  },
+  {
+    "case_id": "C-0120",
+    "citizen_id": "P-2120",
+    "request_text": "Strong tremors damaged house walls, need inspection and relief.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-06-07T07:19:09",
+    "citizen_profile": {
+      "full_name": "Ahmed Ansari",
+      "age": 51,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "ahmed.ansari@example123.com",
+        "phone": "+923391357024"
+      }
+    }
+  },
+  {
+    "case_id": "C-0121",
+    "citizen_id": "P-2121",
+    "request_text": "Flood water entering house, need evacuation to safe shelter.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-07-10T23:48:00",
+    "citizen_profile": {
+      "full_name": "Farhan Sheikh",
+      "age": 32,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "farhan.sheikh@example123.com",
+        "phone": "+923881579041"
+      }
+    }
+  },
+  {
+    "case_id": "C-0122",
+    "citizen_id": "P-2122",
+    "request_text": "Newborn baby requires BCG vaccine.",
+    "request_type": "Public Health Service",
+    "timestamp": "2025-04-08T17:23:28",
+    "citizen_profile": {
+      "full_name": "Ayesha Hussain",
+      "age": 57,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "ayesha.hussain@example123.com",
+        "phone": "+923473731468"
+      }
+    }
+  },
+  {
+    "case_id": "C-0123",
+    "citizen_id": "P-2123",
+    "request_text": "There is a fire in our apartment kitchen, need Rescue 1122 immediately.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-01-31T10:31:30",
+    "citizen_profile": {
+      "full_name": "Hina Chaudhry",
+      "age": 25,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "hina.chaudhry@example123.com",
+        "phone": "+923112593343"
+      }
+    }
+  },
+  {
+    "case_id": "C-0124",
+    "citizen_id": "P-2124",
+    "request_text": "Suspicious abandoned car near the mosque, need inspection.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-01-30T12:29:08",
+    "citizen_profile": {
+      "full_name": "Fatima Dar",
+      "age": 59,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "fatima.dar@example123.com",
+        "phone": "+923334560896"
+      }
+    }
+  },
+  {
+    "case_id": "C-0125",
+    "citizen_id": "P-2125",
+    "request_text": "Flash flood reported, villagers trapped in low-lying area.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-06-26T03:05:18",
+    "citizen_profile": {
+      "full_name": "Fatima Hussain",
+      "age": 56,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "fatima.hussain@example123.com",
+        "phone": "+923405289504"
+      }
+    }
+  },
+  {
+    "case_id": "C-0126",
+    "citizen_id": "P-2126",
+    "request_text": "Streets submerged, family stranded, need rescue boats.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-08-04T23:30:17",
+    "citizen_profile": {
+      "full_name": "Sadia Chaudhry",
+      "age": 28,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "sadia.chaudhry@example123.com",
+        "phone": "+923844829845"
+      }
+    }
+  },
+  {
+    "case_id": "C-0127",
+    "citizen_id": "P-2127",
+    "request_text": "Severe chest pain and dizziness. Suspect heart problem.",
+    "request_type": "Medical Triage",
+    "timestamp": "2025-02-04T07:29:34",
+    "citizen_profile": {
+      "full_name": "Noor Sheikh",
+      "age": 52,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "noor.sheikh@example123.com",
+        "phone": "+923809668315"
+      }
+    }
+  },
+  {
+    "case_id": "C-0128",
+    "citizen_id": "P-2128",
+    "request_text": "My debit card has unauthorized transactions, please investigate.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-06-14T07:44:04",
+    "citizen_profile": {
+      "full_name": "Rabia Dar",
+      "age": 21,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "rabia.dar@example123.com",
+        "phone": "+923211022210"
+      }
+    }
+  },
+  {
+    "case_id": "C-0129",
+    "citizen_id": "P-2129",
+    "request_text": "Requesting appointment for COVID-19 booster shot.",
+    "request_type": "Public Health Service",
+    "timestamp": "2025-01-06T10:53:51",
+    "citizen_profile": {
+      "full_name": "Hassan Malik",
+      "age": 21,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "hassan.malik@example123.com",
+        "phone": "+923909629098"
+      }
+    }
+  },
+  {
+    "case_id": "C-0130",
+    "citizen_id": "P-2130",
+    "request_text": "Received fraudulent call asking for bank details.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-07-31T12:10:04",
+    "citizen_profile": {
+      "full_name": "Nida Baloch",
+      "age": 28,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "nida.baloch@example123.com",
+        "phone": "+923544307503"
+      }
+    }
+  },
+  {
+    "case_id": "C-0131",
+    "citizen_id": "P-2131",
+    "request_text": "Accident occurred on the road, one person bleeding heavily.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-04-03T20:37:26",
+    "citizen_profile": {
+      "full_name": "Usman Abbasi",
+      "age": 33,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "usman.abbasi@example123.com",
+        "phone": "+923450735480"
+      }
+    }
+  },
+  {
+    "case_id": "C-0132",
+    "citizen_id": "P-2132",
+    "request_text": "I need a water connection permit for my new house.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-07-27T14:23:17",
+    "citizen_profile": {
+      "full_name": "Usman Iftikhar",
+      "age": 31,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "usman.iftikhar@example123.com",
+        "phone": "+923613410533"
+      }
+    }
+  },
+  {
+    "case_id": "C-0133",
+    "citizen_id": "P-2133",
+    "request_text": "I need a water connection permit for my new house.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-04-21T15:50:02",
+    "citizen_profile": {
+      "full_name": "Usman Abbasi",
+      "age": 52,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "usman.abbasi@example123.com",
+        "phone": "+923348891279"
+      }
+    }
+  },
+  {
+    "case_id": "C-0134",
+    "citizen_id": "P-2134",
+    "request_text": "Mobile phone snatching incident occurred on the street.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-03-15T06:47:48",
+    "citizen_profile": {
+      "full_name": "Sadia Butt",
+      "age": 47,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "sadia.butt@example123.com",
+        "phone": "+923971451054"
+      }
+    }
+  },
+  {
+    "case_id": "C-0135",
+    "citizen_id": "P-2135",
+    "request_text": "Mobile phone snatching incident occurred on the street.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-09-12T12:31:43",
+    "citizen_profile": {
+      "full_name": "Nida Abbasi",
+      "age": 48,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "nida.abbasi@example123.com",
+        "phone": "+923244570857"
+      }
+    }
+  },
+  {
+    "case_id": "C-0136",
+    "citizen_id": "P-2136",
+    "request_text": "Broken sewerage line needs immediate repair.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-06-19T13:21:13",
+    "citizen_profile": {
+      "full_name": "Fatima Siddiqui",
+      "age": 59,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "fatima.siddiqui@example123.com",
+        "phone": "+923953113284"
+      }
+    }
+  },
+  {
+    "case_id": "C-0137",
+    "citizen_id": "P-2137",
+    "request_text": "Elderly father fainted suddenly. Need ambulance to hospital.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-06-06T21:15:27",
+    "citizen_profile": {
+      "full_name": "Noor Siddiqui",
+      "age": 44,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "noor.siddiqui@example123.com",
+        "phone": "+923714524493"
+      }
+    }
+  },
+  {
+    "case_id": "C-0138",
+    "citizen_id": "P-2138",
+    "request_text": "Need polio vaccination for my child.",
+    "request_type": "Public Health Service",
+    "timestamp": "2025-04-27T23:19:57",
+    "citizen_profile": {
+      "full_name": "Hassan Shah",
+      "age": 46,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "hassan.shah@example123.com",
+        "phone": "+923142489583"
+      }
+    }
+  },
+  {
+    "case_id": "C-0139",
+    "citizen_id": "P-2139",
+    "request_text": "Elderly father fainted suddenly. Need ambulance to hospital.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-08-18T05:55:09",
+    "citizen_profile": {
+      "full_name": "Zain Butt",
+      "age": 21,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "zain.butt@example123.com",
+        "phone": "+923708127672"
+      }
+    }
+  },
+  {
+    "case_id": "C-0140",
+    "citizen_id": "P-2140",
+    "request_text": "Received fraudulent call asking for bank details.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-06-18T21:00:38",
+    "citizen_profile": {
+      "full_name": "Sara Sheikh",
+      "age": 42,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "sara.sheikh@example123.com",
+        "phone": "+923432621456"
+      }
+    }
+  },
+  {
+    "case_id": "C-0141",
+    "citizen_id": "P-2141",
+    "request_text": "Mobile phone snatching incident occurred on the street.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-07-07T12:45:07",
+    "citizen_profile": {
+      "full_name": "Rabia Khan",
+      "age": 43,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "rabia.khan@example123.com",
+        "phone": "+923101574838"
+      }
+    }
+  },
+  {
+    "case_id": "C-0142",
+    "citizen_id": "P-2142",
+    "request_text": "Flood water entering house, need evacuation to safe shelter.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-02-09T14:01:08",
+    "citizen_profile": {
+      "full_name": "Rabia Malik",
+      "age": 65,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "rabia.malik@example123.com",
+        "phone": "+923339770955"
+      }
+    }
+  },
+  {
+    "case_id": "C-0143",
+    "citizen_id": "P-2143",
+    "request_text": "Gas cylinder explosion in neighborhood house, flames spreading.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-03-29T16:07:26",
+    "citizen_profile": {
+      "full_name": "Nida Shah",
+      "age": 26,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "nida.shah@example123.com",
+        "phone": "+923356776152"
+      }
+    }
+  },
+  {
+    "case_id": "C-0144",
+    "citizen_id": "P-2144",
+    "request_text": "Broken sewerage line needs immediate repair.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-09-14T01:35:15",
+    "citizen_profile": {
+      "full_name": "Bilal Raza",
+      "age": 52,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "bilal.raza@example123.com",
+        "phone": "+923564564052"
+      }
+    }
+  },
+  {
+    "case_id": "C-0145",
+    "citizen_id": "P-2145",
+    "request_text": "Flood water entering house, need evacuation to safe shelter.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-02-03T17:11:39",
+    "citizen_profile": {
+      "full_name": "Usman Butt",
+      "age": 47,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "usman.butt@example123.com",
+        "phone": "+923454311446"
+      }
+    }
+  },
+  {
+    "case_id": "C-0146",
+    "citizen_id": "P-2146",
+    "request_text": "There is a fire in our apartment kitchen, need Rescue 1122 immediately.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-07-03T10:06:24",
+    "citizen_profile": {
+      "full_name": "Hassan Sheikh",
+      "age": 43,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "hassan.sheikh@example123.com",
+        "phone": "+923693550310"
+      }
+    }
+  },
+  {
+    "case_id": "C-0147",
+    "citizen_id": "P-2147",
+    "request_text": "I have a fever and cough since yesterday. Need to see a doctor.",
+    "request_type": "Medical Triage",
+    "timestamp": "2025-03-12T22:03:38",
+    "citizen_profile": {
+      "full_name": "Bilal Javed",
+      "age": 24,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "bilal.javed@example123.com",
+        "phone": "+923421499442"
+      }
+    }
+  },
+  {
+    "case_id": "C-0148",
+    "citizen_id": "P-2148",
+    "request_text": "Multiple stray dogs biting children in the playground.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-07-29T22:52:20",
+    "citizen_profile": {
+      "full_name": "Ayesha Rashid",
+      "age": 20,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "ayesha.rashid@example123.com",
+        "phone": "+923186957907"
+      }
+    }
+  },
+  {
+    "case_id": "C-0149",
+    "citizen_id": "P-2149",
+    "request_text": "Electric short-circuit caused fire in office, need fire brigade.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-03-28T11:38:29",
+    "citizen_profile": {
+      "full_name": "Khadija Hussain",
+      "age": 21,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "khadija.hussain@example123.com",
+        "phone": "+923988070279"
+      }
+    }
+  },
+  {
+    "case_id": "C-0150",
+    "citizen_id": "P-2150",
+    "request_text": "Robbery reported in our shop, need police assistance.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-09-13T19:58:15",
+    "citizen_profile": {
+      "full_name": "Zain Gill",
+      "age": 51,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "zain.gill@example123.com",
+        "phone": "+923440696365"
+      }
+    }
+  },
+  {
+    "case_id": "C-0151",
+    "citizen_id": "P-2151",
+    "request_text": "Building collapsed after earthquake, people trapped inside.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-07-03T15:46:16",
+    "citizen_profile": {
+      "full_name": "Omar Butt",
+      "age": 48,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "omar.butt@example123.com",
+        "phone": "+923638538059"
+      }
+    }
+  },
+  {
+    "case_id": "C-0152",
+    "citizen_id": "P-2152",
+    "request_text": "There is a fire in our apartment kitchen, need Rescue 1122 immediately.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-07-25T18:14:09",
+    "citizen_profile": {
+      "full_name": "Nida Javed",
+      "age": 34,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "nida.javed@example123.com",
+        "phone": "+923605383475"
+      }
+    }
+  },
+  {
+    "case_id": "C-0153",
+    "citizen_id": "P-2153",
+    "request_text": "Multiple stray dogs biting children in the playground.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-03-18T21:37:37",
+    "citizen_profile": {
+      "full_name": "Hina Chaudhry",
+      "age": 53,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "hina.chaudhry@example123.com",
+        "phone": "+923814264484"
+      }
+    }
+  },
+  {
+    "case_id": "C-0154",
+    "citizen_id": "P-2154",
+    "request_text": "Broken sewerage line needs immediate repair.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-07-23T12:05:17",
+    "citizen_profile": {
+      "full_name": "Usman Siddiqui",
+      "age": 22,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "usman.siddiqui@example123.com",
+        "phone": "+923914545169"
+      }
+    }
+  },
+  {
+    "case_id": "C-0155",
+    "citizen_id": "P-2155",
+    "request_text": "Mobile phone snatching incident occurred on the street.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-06-30T18:57:36",
+    "citizen_profile": {
+      "full_name": "Rabia Sheikh",
+      "age": 56,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "rabia.sheikh@example123.com",
+        "phone": "+923670480954"
+      }
+    }
+  },
+  {
+    "case_id": "C-0156",
+    "citizen_id": "P-2156",
+    "request_text": "Streets submerged, family stranded, need rescue boats.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-05-28T03:45:52",
+    "citizen_profile": {
+      "full_name": "Fatima Baloch",
+      "age": 55,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "fatima.baloch@example123.com",
+        "phone": "+923582454244"
+      }
+    }
+  },
+  {
+    "case_id": "C-0157",
+    "citizen_id": "P-2157",
+    "request_text": "I was scammed in an online purchase. Need cybercrime cell assistance.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-03-10T13:03:02",
+    "citizen_profile": {
+      "full_name": "Ayesha Baloch",
+      "age": 53,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "ayesha.baloch@example123.com",
+        "phone": "+923167102439"
+      }
+    }
+  },
+  {
+    "case_id": "C-0158",
+    "citizen_id": "P-2158",
+    "request_text": "My debit card has unauthorized transactions, please investigate.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-08-24T08:28:45",
+    "citizen_profile": {
+      "full_name": "Ahmed Chaudhry",
+      "age": 69,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "ahmed.chaudhry@example123.com",
+        "phone": "+923880737216"
+      }
+    }
+  },
+  {
+    "case_id": "C-0159",
+    "citizen_id": "P-2159",
+    "request_text": "I have a fever and cough since yesterday. Need to see a doctor.",
+    "request_type": "Medical Triage",
+    "timestamp": "2025-08-07T15:59:58",
+    "citizen_profile": {
+      "full_name": "Ayesha Raza",
+      "age": 65,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "ayesha.raza@example123.com",
+        "phone": "+923178739944"
+      }
+    }
+  },
+  {
+    "case_id": "C-0160",
+    "citizen_id": "P-2160",
+    "request_text": "School building partially collapsed, students need rescue.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-05-14T17:25:50",
+    "citizen_profile": {
+      "full_name": "Hamza Gill",
+      "age": 29,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "hamza.gill@example123.com",
+        "phone": "+923474593899"
+      }
+    }
+  },
+  {
+    "case_id": "C-0161",
+    "citizen_id": "P-2161",
+    "request_text": "Electric short-circuit caused fire in office, need fire brigade.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-05-28T23:30:46",
+    "citizen_profile": {
+      "full_name": "Nida Chaudhry",
+      "age": 56,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "nida.chaudhry@example123.com",
+        "phone": "+923618460747"
+      }
+    }
+  },
+  {
+    "case_id": "C-0162",
+    "citizen_id": "P-2162",
+    "request_text": "Need polio vaccination for my child.",
+    "request_type": "Public Health Service",
+    "timestamp": "2025-04-17T20:05:18",
+    "citizen_profile": {
+      "full_name": "Bilal Abbasi",
+      "age": 20,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "bilal.abbasi@example123.com",
+        "phone": "+923634505341"
+      }
+    }
+  },
+  {
+    "case_id": "C-0163",
+    "citizen_id": "P-2163",
+    "request_text": "School building partially collapsed, students need rescue.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-09-11T03:37:36",
+    "citizen_profile": {
+      "full_name": "Imran Chaudhry",
+      "age": 60,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "imran.chaudhry@example123.com",
+        "phone": "+923220914222"
+      }
+    }
+  },
+  {
+    "case_id": "C-0164",
+    "citizen_id": "P-2164",
+    "request_text": "Electric short-circuit caused fire in office, need fire brigade.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-01-01T11:48:56",
+    "citizen_profile": {
+      "full_name": "Bilal Hussain",
+      "age": 53,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "bilal.hussain@example123.com",
+        "phone": "+923915362029"
+      }
+    }
+  },
+  {
+    "case_id": "C-0165",
+    "citizen_id": "P-2165",
+    "request_text": "Multiple stray dogs biting children in the playground.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-01-30T22:07:52",
+    "citizen_profile": {
+      "full_name": "Zain Butt",
+      "age": 37,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "zain.butt@example123.com",
+        "phone": "+923872909196"
+      }
+    }
+  },
+  {
+    "case_id": "C-0166",
+    "citizen_id": "P-2166",
+    "request_text": "My debit card has unauthorized transactions, please investigate.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-04-26T06:49:31",
+    "citizen_profile": {
+      "full_name": "Nida Hussain",
+      "age": 31,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "nida.hussain@example123.com",
+        "phone": "+923319658305"
+      }
+    }
+  },
+  {
+    "case_id": "C-0167",
+    "citizen_id": "P-2167",
+    "request_text": "Multiple stray dogs biting children in the playground.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-02-08T05:07:14",
+    "citizen_profile": {
+      "full_name": "Nida Khan",
+      "age": 27,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "nida.khan@example123.com",
+        "phone": "+923963409275"
+      }
+    }
+  },
+  {
+    "case_id": "C-0168",
+    "citizen_id": "P-2168",
+    "request_text": "Broken sewerage line needs immediate repair.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-05-20T22:16:05",
+    "citizen_profile": {
+      "full_name": "Nida Rashid",
+      "age": 38,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "nida.rashid@example123.com",
+        "phone": "+923414153891"
+      }
+    }
+  },
+  {
+    "case_id": "C-0169",
+    "citizen_id": "P-2169",
+    "request_text": "A bus and rickshaw collision with multiple injuries reported.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-02-27T02:19:02",
+    "citizen_profile": {
+      "full_name": "Omar Butt",
+      "age": 52,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "omar.butt@example123.com",
+        "phone": "+923890175046"
+      }
+    }
+  },
+  {
+    "case_id": "C-0170",
+    "citizen_id": "P-2170",
+    "request_text": "Building collapsed after earthquake, people trapped inside.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-03-01T13:45:03",
+    "citizen_profile": {
+      "full_name": "Khadija Sheikh",
+      "age": 19,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "khadija.sheikh@example123.com",
+        "phone": "+923887140832"
+      }
+    }
+  },
+  {
+    "case_id": "C-0171",
+    "citizen_id": "P-2171",
+    "request_text": "Need polio vaccination for my child.",
+    "request_type": "Public Health Service",
+    "timestamp": "2025-09-06T10:08:11",
+    "citizen_profile": {
+      "full_name": "Nida Sheikh",
+      "age": 31,
+      "location": "Peoples Colony, Faisalabad",
+      "contact_info": {
+        "email": "nida.sheikh@example123.com",
+        "phone": "+923665747212"
+      }
+    }
+  },
+  {
+    "case_id": "C-0172",
+    "citizen_id": "P-2172",
+    "request_text": "Multiple stray dogs biting children in the playground.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-01-08T19:12:26",
+    "citizen_profile": {
+      "full_name": "Ayesha Raza",
+      "age": 59,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "ayesha.raza@example123.com",
+        "phone": "+923911095759"
+      }
+    }
+  },
+  {
+    "case_id": "C-0173",
+    "citizen_id": "P-2173",
+    "request_text": "My child has severe diarrhea and dehydration. Need urgent care.",
+    "request_type": "Medical Triage",
+    "timestamp": "2025-09-03T16:03:22",
+    "citizen_profile": {
+      "full_name": "Sadia Rashid",
+      "age": 21,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "sadia.rashid@example123.com",
+        "phone": "+923799673947"
+      }
+    }
+  },
+  {
+    "case_id": "C-0174",
+    "citizen_id": "P-2174",
+    "request_text": "Gas cylinder explosion in neighborhood house, flames spreading.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-04-02T09:35:38",
+    "citizen_profile": {
+      "full_name": "Ali Qureshi",
+      "age": 64,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "ali.qureshi@example123.com",
+        "phone": "+923435915370"
+      }
+    }
+  },
+  {
+    "case_id": "C-0175",
+    "citizen_id": "P-2175",
+    "request_text": "Streetlights not working in our area for 2 weeks.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-02-03T19:41:12",
+    "citizen_profile": {
+      "full_name": "Noor Sheikh",
+      "age": 34,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "noor.sheikh@example123.com",
+        "phone": "+923934752803"
+      }
+    }
+  },
+  {
+    "case_id": "C-0176",
+    "citizen_id": "P-2176",
+    "request_text": "Accident occurred on the road, one person bleeding heavily.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-06-06T18:58:47",
+    "citizen_profile": {
+      "full_name": "Sadia Butt",
+      "age": 28,
+      "location": "Peoples Colony, Faisalabad",
+      "contact_info": {
+        "email": "sadia.butt@example123.com",
+        "phone": "+923260978379"
+      }
+    }
+  },
+  {
+    "case_id": "C-0177",
+    "citizen_id": "P-2177",
+    "request_text": "Building collapsed after earthquake, people trapped inside.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-06-28T13:57:21",
+    "citizen_profile": {
+      "full_name": "Noor Raza",
+      "age": 55,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "noor.raza@example123.com",
+        "phone": "+923856545333"
+      }
+    }
+  },
+  {
+    "case_id": "C-0178",
+    "citizen_id": "P-2178",
+    "request_text": "My child has severe diarrhea and dehydration. Need urgent care.",
+    "request_type": "Medical Triage",
+    "timestamp": "2025-07-30T18:49:25",
+    "citizen_profile": {
+      "full_name": "Maryam Siddiqui",
+      "age": 47,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "maryam.siddiqui@example123.com",
+        "phone": "+923998351345"
+      }
+    }
+  },
+  {
+    "case_id": "C-0179",
+    "citizen_id": "P-2179",
+    "request_text": "Suspicious activity near my house, possible burglary attempt.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-07-18T09:24:17",
+    "citizen_profile": {
+      "full_name": "Usman Gill",
+      "age": 38,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "usman.gill@example123.com",
+        "phone": "+923355943658"
+      }
+    }
+  },
+  {
+    "case_id": "C-0180",
+    "citizen_id": "P-2180",
+    "request_text": "Suspicious activity near my house, possible burglary attempt.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-03-21T11:18:29",
+    "citizen_profile": {
+      "full_name": "Sara Javed",
+      "age": 47,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "sara.javed@example123.com",
+        "phone": "+923560817896"
+      }
+    }
+  },
+  {
+    "case_id": "C-0181",
+    "citizen_id": "P-2181",
+    "request_text": "Newborn baby requires BCG vaccine.",
+    "request_type": "Public Health Service",
+    "timestamp": "2025-08-23T05:36:47",
+    "citizen_profile": {
+      "full_name": "Zain Hussain",
+      "age": 59,
+      "location": "Peoples Colony, Faisalabad",
+      "contact_info": {
+        "email": "zain.hussain@example123.com",
+        "phone": "+923600288429"
+      }
+    }
+  },
+  {
+    "case_id": "C-0182",
+    "citizen_id": "P-2182",
+    "request_text": "Received fraudulent call asking for bank details.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-08-21T09:00:36",
+    "citizen_profile": {
+      "full_name": "Ali Hussain",
+      "age": 32,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "ali.hussain@example123.com",
+        "phone": "+923994043964"
+      }
+    }
+  },
+  {
+    "case_id": "C-0183",
+    "citizen_id": "P-2183",
+    "request_text": "Broken sewerage line needs immediate repair.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-07-01T17:01:02",
+    "citizen_profile": {
+      "full_name": "Ayesha Sheikh",
+      "age": 19,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "ayesha.sheikh@example123.com",
+        "phone": "+923839662567"
+      }
+    }
+  },
+  {
+    "case_id": "C-0184",
+    "citizen_id": "P-2184",
+    "request_text": "Requesting appointment for COVID-19 booster shot.",
+    "request_type": "Public Health Service",
+    "timestamp": "2025-01-19T10:10:58",
+    "citizen_profile": {
+      "full_name": "Ayesha Raza",
+      "age": 60,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "ayesha.raza@example123.com",
+        "phone": "+923683477017"
+      }
+    }
+  },
+  {
+    "case_id": "C-0185",
+    "citizen_id": "P-2185",
+    "request_text": "Strong tremors damaged house walls, need inspection and relief.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-04-14T20:17:29",
+    "citizen_profile": {
+      "full_name": "Rabia Abbasi",
+      "age": 63,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "rabia.abbasi@example123.com",
+        "phone": "+923986595016"
+      }
+    }
+  },
+  {
+    "case_id": "C-0186",
+    "citizen_id": "P-2186",
+    "request_text": "There is a fire in our apartment kitchen, need Rescue 1122 immediately.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-02-11T21:26:49",
+    "citizen_profile": {
+      "full_name": "Hassan Malik",
+      "age": 68,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "hassan.malik@example123.com",
+        "phone": "+923905226386"
+      }
+    }
+  },
+  {
+    "case_id": "C-0187",
+    "citizen_id": "P-2187",
+    "request_text": "Severe chest pain and dizziness. Suspect heart problem.",
+    "request_type": "Medical Triage",
+    "timestamp": "2025-02-17T15:05:54",
+    "citizen_profile": {
+      "full_name": "Ahmed Iftikhar",
+      "age": 65,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "ahmed.iftikhar@example123.com",
+        "phone": "+923126625304"
+      }
+    }
+  },
+  {
+    "case_id": "C-0188",
+    "citizen_id": "P-2188",
+    "request_text": "Suspicious abandoned car near the mosque, need inspection.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-01-28T00:23:39",
+    "citizen_profile": {
+      "full_name": "Bilal Qureshi",
+      "age": 56,
+      "location": "Model Town, Lahore",
+      "contact_info": {
+        "email": "bilal.qureshi@example123.com",
+        "phone": "+923755286615"
+      }
+    }
+  },
+  {
+    "case_id": "C-0189",
+    "citizen_id": "P-2189",
+    "request_text": "Flash flood reported, villagers trapped in low-lying area.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-07-10T17:41:24",
+    "citizen_profile": {
+      "full_name": "Bilal Dar",
+      "age": 40,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "bilal.dar@example123.com",
+        "phone": "+923534897759"
+      }
+    }
+  },
+  {
+    "case_id": "C-0190",
+    "citizen_id": "P-2190",
+    "request_text": "Electric short-circuit caused fire in office, need fire brigade.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-07-06T05:40:24",
+    "citizen_profile": {
+      "full_name": "Hina Siddiqui",
+      "age": 67,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "hina.siddiqui@example123.com",
+        "phone": "+923415825630"
+      }
+    }
+  },
+  {
+    "case_id": "C-0191",
+    "citizen_id": "P-2191",
+    "request_text": "I was scammed in an online purchase. Need cybercrime cell assistance.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-09-08T02:31:58",
+    "citizen_profile": {
+      "full_name": "Omar Hussain",
+      "age": 25,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "omar.hussain@example123.com",
+        "phone": "+923654200070"
+      }
+    }
+  },
+  {
+    "case_id": "C-0192",
+    "citizen_id": "P-2192",
+    "request_text": "Accident occurred on the road, one person bleeding heavily.",
+    "request_type": "Ambulance Request",
+    "timestamp": "2025-08-26T02:44:43",
+    "citizen_profile": {
+      "full_name": "Farhan Iftikhar",
+      "age": 22,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "farhan.iftikhar@example123.com",
+        "phone": "+923735396875"
+      }
+    }
+  },
+  {
+    "case_id": "C-0193",
+    "citizen_id": "P-2193",
+    "request_text": "Multiple stray dogs biting children in the playground.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-06-28T03:00:42",
+    "citizen_profile": {
+      "full_name": "Zain Qureshi",
+      "age": 37,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "zain.qureshi@example123.com",
+        "phone": "+923461307353"
+      }
+    }
+  },
+  {
+    "case_id": "C-0194",
+    "citizen_id": "P-2194",
+    "request_text": "I have a fever and cough since yesterday. Need to see a doctor.",
+    "request_type": "Medical Triage",
+    "timestamp": "2025-07-18T23:49:10",
+    "citizen_profile": {
+      "full_name": "Usman Rashid",
+      "age": 22,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "usman.rashid@example123.com",
+        "phone": "+923252008924"
+      }
+    }
+  },
+  {
+    "case_id": "C-0195",
+    "citizen_id": "P-2195",
+    "request_text": "My child has severe diarrhea and dehydration. Need urgent care.",
+    "request_type": "Medical Triage",
+    "timestamp": "2025-09-06T18:15:28",
+    "citizen_profile": {
+      "full_name": "Ayesha Hussain",
+      "age": 42,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "ayesha.hussain@example123.com",
+        "phone": "+923774802345"
+      }
+    }
+  },
+  {
+    "case_id": "C-0196",
+    "citizen_id": "P-2196",
+    "request_text": "Electric short-circuit caused fire in office, need fire brigade.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-03-25T03:33:30",
+    "citizen_profile": {
+      "full_name": "Hina Dar",
+      "age": 46,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "hina.dar@example123.com",
+        "phone": "+923463501883"
+      }
+    }
+  },
+  {
+    "case_id": "C-0197",
+    "citizen_id": "P-2197",
+    "request_text": "Robbery reported in our shop, need police assistance.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-01-18T20:10:51",
+    "citizen_profile": {
+      "full_name": "Hassan Qureshi",
+      "age": 70,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "hassan.qureshi@example123.com",
+        "phone": "+923642159169"
+      }
+    }
+  },
+  {
+    "case_id": "C-0198",
+    "citizen_id": "P-2198",
+    "request_text": "Electric short-circuit caused fire in office, need fire brigade.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-03-04T21:57:01",
+    "citizen_profile": {
+      "full_name": "Ayesha Raza",
+      "age": 26,
+      "location": "Peoples Colony, Faisalabad",
+      "contact_info": {
+        "email": "ayesha.raza@example123.com",
+        "phone": "+923465291935"
+      }
+    }
+  },
+  {
+    "case_id": "C-0199",
+    "citizen_id": "P-2199",
+    "request_text": "Flash flood reported, villagers trapped in low-lying area.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-03-26T15:06:51",
+    "citizen_profile": {
+      "full_name": "Khadija Butt",
+      "age": 40,
+      "location": "Latifabad, Hyderabad",
+      "contact_info": {
+        "email": "khadija.butt@example123.com",
+        "phone": "+923960624989"
+      }
+    }
+  },
+  {
+    "case_id": "C-0200",
+    "citizen_id": "P-2200",
+    "request_text": "Traffic signal malfunctioning, causing road accidents.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-08-29T09:25:03",
+    "citizen_profile": {
+      "full_name": "Sadia Khan",
+      "age": 35,
+      "location": "Peoples Colony, Faisalabad",
+      "contact_info": {
+        "email": "sadia.khan@example123.com",
+        "phone": "+923867317866"
+      }
+    }
+  },
+  {
+    "case_id": "C-0201",
+    "citizen_id": "P-2201",
+    "request_text": "Severe chest pain and dizziness. Suspect heart problem.",
+    "request_type": "Medical Triage",
+    "timestamp": "2025-03-22T10:52:20",
+    "citizen_profile": {
+      "full_name": "Ali Abbasi",
+      "age": 57,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "ali.abbasi@example123.com",
+        "phone": "+923757397889"
+      }
+    }
+  },
+  {
+    "case_id": "C-0202",
+    "citizen_id": "P-2202",
+    "request_text": "There is a fire in our apartment kitchen, need Rescue 1122 immediately.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-05-29T06:05:17",
+    "citizen_profile": {
+      "full_name": "Usman Gill",
+      "age": 44,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "usman.gill@example123.com",
+        "phone": "+923356484155"
+      }
+    }
+  },
+  {
+    "case_id": "C-0203",
+    "citizen_id": "P-2203",
+    "request_text": "Mobile phone snatching incident occurred on the street.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-03-19T21:05:20",
+    "citizen_profile": {
+      "full_name": "Omar Abbasi",
+      "age": 31,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "omar.abbasi@example123.com",
+        "phone": "+923137646858"
+      }
+    }
+  },
+  {
+    "case_id": "C-0204",
+    "citizen_id": "P-2204",
+    "request_text": "Building collapsed after earthquake, people trapped inside.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-05-17T16:28:33",
+    "citizen_profile": {
+      "full_name": "Sara Malik",
+      "age": 49,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "sara.malik@example123.com",
+        "phone": "+923884343015"
+      }
+    }
+  },
+  {
+    "case_id": "C-0205",
+    "citizen_id": "P-2205",
+    "request_text": "Building collapsed after earthquake, people trapped inside.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-06-16T18:17:56",
+    "citizen_profile": {
+      "full_name": "Khadija Ansari",
+      "age": 33,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "khadija.ansari@example123.com",
+        "phone": "+923944097530"
+      }
+    }
+  },
+  {
+    "case_id": "C-0206",
+    "citizen_id": "P-2206",
+    "request_text": "Flash flood reported, villagers trapped in low-lying area.",
+    "request_type": "Flood Evacuation",
+    "timestamp": "2025-05-28T11:45:20",
+    "citizen_profile": {
+      "full_name": "Bilal Gill",
+      "age": 67,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "bilal.gill@example123.com",
+        "phone": "+923458465078"
+      }
+    }
+  },
+  {
+    "case_id": "C-0207",
+    "citizen_id": "P-2207",
+    "request_text": "Mobile phone snatching incident occurred on the street.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-01-21T14:34:42",
+    "citizen_profile": {
+      "full_name": "Farhan Hussain",
+      "age": 43,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "farhan.hussain@example123.com",
+        "phone": "+923455253435"
+      }
+    }
+  },
+  {
+    "case_id": "C-0208",
+    "citizen_id": "P-2208",
+    "request_text": "I was scammed in an online purchase. Need cybercrime cell assistance.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-08-21T12:42:56",
+    "citizen_profile": {
+      "full_name": "Rabia Butt",
+      "age": 18,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "rabia.butt@example123.com",
+        "phone": "+923733546150"
+      }
+    }
+  },
+  {
+    "case_id": "C-0209",
+    "citizen_id": "P-2209",
+    "request_text": "Gas cylinder explosion in neighborhood house, flames spreading.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-08-26T05:16:09",
+    "citizen_profile": {
+      "full_name": "Zain Khan",
+      "age": 58,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "zain.khan@example123.com",
+        "phone": "+923329368869"
+      }
+    }
+  },
+  {
+    "case_id": "C-0210",
+    "citizen_id": "P-2210",
+    "request_text": "Strong tremors damaged house walls, need inspection and relief.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-08-30T06:05:55",
+    "citizen_profile": {
+      "full_name": "Imran Raza",
+      "age": 26,
+      "location": "F-7, Islamabad",
+      "contact_info": {
+        "email": "imran.raza@example123.com",
+        "phone": "+923537799012"
+      }
+    }
+  },
+  {
+    "case_id": "C-0211",
+    "citizen_id": "P-2211",
+    "request_text": "Building collapsed after earthquake, people trapped inside.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-09-02T15:09:32",
+    "citizen_profile": {
+      "full_name": "Hassan Raza",
+      "age": 36,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "hassan.raza@example123.com",
+        "phone": "+923360713154"
+      }
+    }
+  },
+  {
+    "case_id": "C-0212",
+    "citizen_id": "P-2212",
+    "request_text": "Multiple stray dogs biting children in the playground.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-05-06T23:14:02",
+    "citizen_profile": {
+      "full_name": "Ali Qureshi",
+      "age": 57,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "ali.qureshi@example123.com",
+        "phone": "+923675453751"
+      }
+    }
+  },
+  {
+    "case_id": "C-0213",
+    "citizen_id": "P-2213",
+    "request_text": "Building collapsed after earthquake, people trapped inside.",
+    "request_type": "Earthquake Response",
+    "timestamp": "2025-03-02T11:22:45",
+    "citizen_profile": {
+      "full_name": "Usman Hussain",
+      "age": 29,
+      "location": "Jinnah Town, Quetta",
+      "contact_info": {
+        "email": "usman.hussain@example123.com",
+        "phone": "+923819274841"
+      }
+    }
+  },
+  {
+    "case_id": "C-0214",
+    "citizen_id": "P-2214",
+    "request_text": "Need polio vaccination for my child.",
+    "request_type": "Public Health Service",
+    "timestamp": "2025-08-19T23:10:52",
+    "citizen_profile": {
+      "full_name": "Hassan Ansari",
+      "age": 22,
+      "location": "Peoples Colony, Faisalabad",
+      "contact_info": {
+        "email": "hassan.ansari@example123.com",
+        "phone": "+923296058664"
+      }
+    }
+  },
+  {
+    "case_id": "C-0215",
+    "citizen_id": "P-2215",
+    "request_text": "Requesting appointment for COVID-19 booster shot.",
+    "request_type": "Public Health Service",
+    "timestamp": "2025-02-17T21:48:50",
+    "citizen_profile": {
+      "full_name": "Ayesha Baloch",
+      "age": 53,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "ayesha.baloch@example123.com",
+        "phone": "+923979656599"
+      }
+    }
+  },
+  {
+    "case_id": "C-0216",
+    "citizen_id": "P-2216",
+    "request_text": "There is a fire in our apartment kitchen, need Rescue 1122 immediately.",
+    "request_type": "Fire Emergency",
+    "timestamp": "2025-01-11T13:14:23",
+    "citizen_profile": {
+      "full_name": "Fatima Raza",
+      "age": 40,
+      "location": "Gulshan-e-Iqbal, Karachi",
+      "contact_info": {
+        "email": "fatima.raza@example123.com",
+        "phone": "+923544257170"
+      }
+    }
+  },
+  {
+    "case_id": "C-0217",
+    "citizen_id": "P-2217",
+    "request_text": "Suspicious abandoned car near the mosque, need inspection.",
+    "request_type": "Public Safety",
+    "timestamp": "2025-04-27T18:20:03",
+    "citizen_profile": {
+      "full_name": "Hamza Javed",
+      "age": 51,
+      "location": "Cantt, Multan",
+      "contact_info": {
+        "email": "hamza.javed@example123.com",
+        "phone": "+923818731354"
+      }
+    }
+  },
+  {
+    "case_id": "C-0218",
+    "citizen_id": "P-2218",
+    "request_text": "Streetlights not working in our area for 2 weeks.",
+    "request_type": "Urban Services",
+    "timestamp": "2025-04-10T20:30:01",
+    "citizen_profile": {
+      "full_name": "Omar Abbasi",
+      "age": 55,
+      "location": "Peoples Colony, Faisalabad",
+      "contact_info": {
+        "email": "omar.abbasi@example123.com",
+        "phone": "+923726391991"
+      }
+    }
+  },
+  {
+    "case_id": "C-0219",
+    "citizen_id": "P-2219",
+    "request_text": "Received fraudulent call asking for bank details.",
+    "request_type": "Fraud Report",
+    "timestamp": "2025-08-22T18:43:42",
+    "citizen_profile": {
+      "full_name": "Hina Ansari",
+      "age": 44,
+      "location": "Satellite Town, Rawalpindi",
+      "contact_info": {
+        "email": "hina.ansari@example123.com",
+        "phone": "+923562961526"
+      }
+    }
+  },
+  {
+    "case_id": "C-0220",
+    "citizen_id": "P-2220",
+    "request_text": "Mobile phone snatching incident occurred on the street.",
+    "request_type": "Crime Report",
+    "timestamp": "2025-01-06T22:35:05",
+    "citizen_profile": {
+      "full_name": "Omar Chaudhry",
+      "age": 62,
+      "location": "University Town, Peshawar",
+      "contact_info": {
+        "email": "omar.chaudhry@example123.com",
+        "phone": "+923516993389"
+      }
+    }
+  }
+]

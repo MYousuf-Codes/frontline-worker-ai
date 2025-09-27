@@ -1,0 +1,960 @@
+{
+  "karachi_hospitals_list": {
+    "report_date": "14/12/2002",
+    "report_time": "13:29:40",
+    "report_no": "R14-K",
+    "areas": [
+      {
+        "area_name": "M.A. JINNAH ROAD/SADDAR AREA",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00354",
+            "name": "ANKLESARIA NURSING HOME",
+            "address": "JUNSTION OF RANDAL GARDEN ROAD, KARACHI-74400.",
+            "telephone_numbers": ["772-0371", "772-0374", "772-0385"]
+          },
+          {
+            "sr_no": 2,
+            "code": "00359",
+            "name": "HASHMANIS HOSPITAL",
+            "address": "JM-75, JACOB LINES OFF. M.A. JINNAH ROAD KARACHI.",
+            "telephone_numbers": ["7781411", "7781409", "7781410"]
+          },
+          {
+            "sr_no": 3,
+            "code": "00356.J",
+            "name": ". HOSPITAL & NURSING HAME",
+            "address": "AL-HAROON CHAMBERS GARDEN ROAD, KARACHI.",
+            "telephone_numbers": ["773-5146", "772-6172"]
+          },
+          {
+            "sr_no": 4,
+            "code": "00439",
+            "name": "KAMAL HOSPITAL",
+            "address": "226/Α, Α.I. LINES DAWOOD POTA ROAD, NEAR MEHRAN HOTEL, SADDAR, KARACHI",
+            "telephone_numbers": ["5655341-44"]
+          },
+          {
+            "sr_no": 5,
+            "code": "00361",
+            "name": "KARACHI KIDNEY STONE CLINIC (DR. AMANULLAH KHAN)",
+            "address": "TAJ MEDICAL COMPLEX M.A. JINNAH ROAD, KARACHI.",
+            "telephone_numbers": ["7780100", "7782180"]
+          },
+          {
+            "sr_no": 6,
+            "code": "00355",
+            "name": "MEDISHIELD HOSPITAL (PVT) LTD.,",
+            "address": "RIMPA PLAZA, M.A. JINNAH ROAD, KARACHI.",
+            "telephone_numbers": ["772-6924", "772-9955"]
+          },
+          {
+            "sr_no": 7,
+            "code": "00360",
+            "name": "NATIONAL INSTITUTE OF CARDIO- VASCULAR DISEASES",
+            "address": "RAFIQUI (H.J) SHAHEED ROAD, KARACHi.",
+            "telephone_numbers": ["9201271-5"]
+          },
+          {
+            "sr_no": 8,
+            "code": "00358",
+            "name": "NAVEED CLINIC",
+            "address": "175, Α.Μ. SHAHRAH-E-LIAQUAT KARACHI.",
+            "telephone_numbers": ["512021-3", "515521", "514127"]
+          },
+          {
+            "sr_no": 9,
+            "code": "00469",
+            "name": "NEUROSPINAL & MEDICAL INSTITUTE (NMI) PVT. LTD.",
+            "address": "100/1 DEPOT LINES, MANSFIELD STREET, SADDAR, KARACHI",
+            "telephone_numbers": ["7219959", "7218848"]
+          },
+          {
+            "sr_no": 10,
+            "code": "00357",
+            "name": "TAJ MEDICAL COMPLEX LIMITED",
+            "address": "M.A. JINNAH ROAD, KARACHI.",
+            "telephone_numbers": ["778-2768-72", "778-2389"]
+          },
+          {
+            "sr_no": 11,
+            "code": "00459",
+            "name": "THE KIDNEY CENTRE (FOR DIALYSIS",
+            "address": "197/9, RAFIQUI SHAHEED ROAD, KARACHI-75530.",
+            "telephone_numbers": ["PABX-5661000 10 LINES"]
+          }
+        ]
+      },
+      {
+        "area_name": "GULSHAN-E-IQBAL",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00470",
+            "name": "AHMAD EYE & MEDICAL CENTRE",
+            "address": "$B-76$, BLOCK-15, BEHIND ALLIED BANK, NEAR P.I.A. PLANETORIUM, GULSHAN-E-IQBAL, KARACHI.",
+            "notes": "FOR EYE CONFINMENT ONLY",
+            "telephone_numbers": ["4972486"]
+          },
+          {
+            "sr_no": 2,
+            "code": "00367",
+            "name": "AHMED EYE HOSPITAL (DR. KAMALUDDIN)",
+            "address": "B-76, BLOCK-15 OPP. USMANIA RESTAURANT ADJACENT B & H HOUSE NEAR PIA PLANITORIUM GULSHAN-E-IQBAL, KARACHI.",
+            "notes": "TIMING: 7.00 PM TO 9.00 PM EXCEPT: SUNDAY",
+            "telephone_numbers": ["4972486"]
+          },
+          {
+            "sr_no": 3,
+            "code": "00366",
+            "name": "AKHTAR'S EYE HOSPITAL (DR. ΑΚΗΤAR JAMAL KHAN)",
+            "address": "FL-1 $(4/C)$, BLOCK-5 GULSHAN-E-IQBAL RASHID MINHAS ROAD, KARACHI.",
+            "telephone_numbers": ["463368", "463647"]
+          },
+          {
+            "sr_no": 4,
+            "code": "00369",
+            "name": "ASHFAQ MEMORIAL HOSPITAL",
+            "address": "SB-9, BLOCK-13/C UNIVERCITY ROAD GULSHAN-E-IQBAL, KARACHI.",
+            "telephone_numbers": ["4961020-1", "4961048-3"]
+          },
+          {
+            "sr_no": 5,
+            "code": "00362",
+            "name": "EHSAN MEDICAL CENTRE",
+            "address": "SIR SHAH MUHAMMAD SULEMAN ROAD OPP. D.C. OFFICE EAST ZONE NEAR CIVIC CENTRE, ST/2/A BLOCK-17, GULSHAN-E-IQBAL KARACHI.",
+            "telephone_numbers": ["463054", "474042", "474217"]
+          },
+          {
+            "sr_no": 6,
+            "code": "00370",
+            "name": "FON GENERAL HOSPITAL & KARACHI UROLOGY CENTRE",
+            "address": "OPP. AZIZ BHATTI PARK C-130, GULSHAN-E-IQBAL, KARACHI.",
+            "telephone_numbers": ["479192-95"]
+          },
+          {
+            "sr_no": 7,
+            "code": "00368",
+            "name": "GULSHAN PSYCHIATRIST HOSPITAL",
+            "address": "PLOT NO.6, BLOCK-16 ROAD BETWEEN P.I.A.PLANITORIUM HASAN CENTRE, OFF.UNIVERCITY RD GULSHAN-E-IQBAL, KARACHI.",
+            "telephone_numbers": ["496-2170"]
+          },
+          {
+            "sr_no": 8,
+            "code": "00466",
+            "name": "M. RAB MEDICAL CENTRE",
+            "address": "SB-1, BLOCK-2, SCHEME-24, GULSHAN-E-IQBAL, KARACHI.",
+            "telephone_numbers": ["4988554", "4981047", "4980944"]
+          },
+          {
+            "sr_no": 9,
+            "code": "00371",
+            "name": "MODERN EAR NOSE & THROAT HOSPITAL (DR. M.H.A. BEG)",
+            "address": "B-10, BLOCK-13/A OPP. PIA PLANITORIUM UNIVERTY ROAD, GULSHAN-E-IQBAL KARACHI.",
+            "telephone_numbers": ["497-1762-3"]
+          },
+          {
+            "sr_no": 10,
+            "code": "00365",
+            "name": "NADEEM MEDICAL CENTRE",
+            "address": "NIPA CHOWRANGI, ST-18/D BLOCK-6, GULSHAN-E-IQBAL KARACHI.",
+            "telephone_numbers": ["4984300 3"]
+          },
+          {
+            "sr_no": 11,
+            "code": "00364",
+            "name": "SAMDANI HOSPITAL",
+            "address": "A-560/5, GULSHAN-E-IQBAL KARACHI.",
+            "telephone_numbers": ["465017", "465413"]
+          },
+          {
+            "sr_no": 12,
+            "code": "00363",
+            "name": "SHAN HOSPITAL",
+            "address": "GULSHAN-E-IQBAL, KARACHI.",
+            "telephone_numbers": ["461043"]
+          },
+          {
+            "sr_no": 13,
+            "code": "00446",
+            "name": "RAJPUT HOSPITAL",
+            "address": "ZC 2 BLOCK,4-A, GULSHAN-E-IQBAL, ABUL HASSAN ISPHAHANI ROAD, KARACHI. 47",
+            "telephone_numbers": ["4979403"]
+          },
+          {
+            "sr_no": 14,
+            "code": "00453",
+            "name": "TRAUMA ORTHOPAEDIC CLINIC (T.O)",
+            "address": "STREET NO.I, BLOCK NO.6, GULSHAN CHOURANGI, GULSHAN-E-IQBAL, KARACHI.",
+            "telephone_numbers": ["111-499-111"]
+          }
+        ]
+      },
+      {
+        "area_name": "SHAHEED-E-MILLAT/STADIUM ROAD",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00375",
+            "name": "FAIZ-E-AAM HOSPITAL (PVT) LTD.",
+            "address": "SHAHEED-E-MILLAT ROAD, KARACHI.",
+            "telephone_numbers": ["455-9114", "455-8351"]
+          },
+          {
+            "sr_no": 2,
+            "code": "00374",
+            "name": "HILL PARK GENERAL HOSPITAL",
+            "address": "SNCC-3/4, BLOCK-3 SHAHEED-E-MILLAT ROAD, KARACHI.",
+            "telephone_numbers": ["4538560-3"]
+          },
+          {
+            "sr_no": 3,
+            "code": "00373",
+            "name": "JINNAH MEDICAL COLLEGE HOSPITAL.",
+            "address": "22-23 SHAHEED-E-MILLAT ROAD, KARACHI",
+            "telephone_numbers": ["4938031-32"]
+          },
+          {
+            "sr_no": 4,
+            "code": "00372",
+            "name": "LIAQUAT NATIONAL HOSPITAL",
+            "address": "NATIONAL STADIUM ROAD KARACHI-5.",
+            "telephone_numbers": ["493-9612", "493-9613", "493-9614"]
+          },
+          {
+            "sr_no": 5,
+            "code": "00376",
+            "name": "PLASTIC SURGERY & GENERAL HOSPITAL (DR. FAIZ M. KHAN)",
+            "address": "AL-RIAZ SOCIETY, NEAR HILL PARK, MAIN SHAHEED-E MILLAT ROAD, KARACHI.",
+            "telephone_numbers": ["4520333", "4520444", "4523288", "4542363"]
+          }
+        ]
+      },
+      {
+        "area_name": "NAZIMABAD",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00382",
+            "name": "AL-MURTAZA HOSPITAL",
+            "address": "NAZIMABAD NO.2, KARACHI.",
+            "telephone_numbers": ["612025"]
+          },
+          {
+            "sr_no": 2,
+            "code": "00379",
+            "name": "BAQAI HOSPITAL",
+            "address": "III-B, 1/18, NAZINABAD KARACHI.",
+            "telephone_numbers": ["618082"]
+          },
+          {
+            "sr_no": 3,
+            "code": "00461",
+            "name": "BAQAI INSTITUTE OF ONCOLOGY",
+            "address": "PLOT NO. 1-2, II-B, BLOCK NO. 2, NAZIMABAD, KARACHI",
+            "telephone_numbers": ["6689082"]
+          },
+          {
+            "sr_no": 4,
+            "code": "00378",
+            "name": "CLINIC & MATERNITY HOME",
+            "address": "1414/D-II, NAZIMABAD KARACHI.",
+            "telephone_numbers": ["621901"]
+          },
+          {
+            "sr_no": 5,
+            "code": "00384",
+            "name": "IMAM ZAINUL ABEDIN HOSPITAL",
+            "address": "SHAH-I-KARBALA TRUST 42-43/C, RIZVIA SOCIETY KARACHI.",
+            "telephone_numbers": ["615927", "615729"]
+          },
+          {
+            "sr_no": 6,
+            "code": "00381",
+            "name": "KARACHI PSYCHIATRIC HOSPITAL (DR. MOHSIN)",
+            "address": "III-B, 1/14, NAZIMABAD KARACHI.",
+            "telephone_numbers": ["6612187", "6610366", "6616837"]
+          },
+          {
+            "sr_no": 7,
+            "code": "00380",
+            "name": "MIDWAY HOSPITAL",
+            "address": "1/29- , NAZIMABAD, KARACHI.",
+            "telephone_numbers": ["617813"]
+          },
+          {
+            "sr_no": 8,
+            "code": "00377",
+            "name": "NAZIMABAD HOSPITAL & MATERNITY HOME",
+            "address": "4-7, A/II, NAZIMABAD, KARACHI.",
+            "telephone_numbers": ["622715", "621678", "621240"]
+          },
+          {
+            "sr_no": 9,
+            "code": "00383",
+            "name": "SPECIALISTS CLINIC",
+            "address": "3-A-1/16, NAZIMABAD KARACHI.",
+            "notes": "FOR NEUROLOGICAL CASES ONLY",
+            "telephone_numbers": ["6610948", "661428", "614928", "629345"]
+          }
+        ]
+      },
+      {
+        "area_name": "NORTH NAZIMABAD",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00386",
+            "name": "ASGHAR HOSPITAL",
+            "address": "SD-23 BLOCK B, NORTH NAZIMABAD, KARACHI.",
+            "telephone_numbers": ["6642389", "6646810"]
+          },
+          {
+            "sr_no": 2,
+            "code": "00387",
+            "name": "HALIM HOSPITAL",
+            "address": "D-13, BLOCK-L, NORTH NAZIMABAD, KARACHI.",
+            "notes": "FOR CONFINMENT",
+            "telephone_numbers": ["6647189", "6643269", "6646915"]
+          },
+          {
+            "sr_no": 3,
+            "code": "00385",
+            "name": "HANIF HOSPITAL",
+            "address": "SF-15/A, BLOCK 'B' NORTH NAZIMABAD, KARACHI.",
+            "telephone_numbers": ["6645611", "6644919"]
+          },
+          {
+            "sr_no": 4,
+            "code": "00393",
+            "name": "HEALTHCARE HOSPITAL",
+            "address": "D-9, BLOCK 'A', NORTH NAZIMABAD KARACHI.",
+            "telephone_numbers": ["6670449", "6670450", "6670451"]
+          },
+          {
+            "sr_no": 5,
+            "code": "00388",
+            "name": "MEDI COMPLEX",
+            "address": "B-15, BLOCK-L, NORTH NAZIMABAD KARACHI.",
+            "telephone_numbers": ["6648591", "6642351", "6647227"]
+          },
+          {
+            "sr_no": 6,
+            "code": "00454",
+            "name": "MEDLYN HOSPITAL",
+            "address": "1. ST-2, BLOCK H, N. NAZIMABAD, KARACHI 2.A-907 & 908 SECTOR 11-A, N. KARACHI, KARACHI",
+            "telephone_numbers": ["6677390", "6678442", "6999837"]
+          },
+          {
+            "sr_no": 7,
+            "code": "00390",
+            "name": "S.S. HOSPITAL (DR. SHAMIM'S)",
+            "address": "FL-8, SAMAR GARDENS, BLOCK-G NORTH NAZIMABAD, KARACHI.",
+            "telephone_numbers": ["6649331", "6649335", "7780709"]
+          },
+          {
+            "sr_no": 8,
+            "code": "00460",
+            "name": "SHAHRUKH HOSPITAL (MATERNITY)",
+            "address": "A-343, BLOCK 'J', NORTH NAZIMABAD, NEAR TAKI CENTRE, KARACHI.",
+            "telephone_numbers": ["6635096"]
+          },
+          {
+            "sr_no": 9,
+            "code": "00392",
+            "name": "AZIZ MEDICAL CENTRE MATERNITY HOME",
+            "address": "B-151, BLOCK 'W' ALLAMA IQBAL TOWN NORTH NAZIMABAD, KARACHI.",
+            "notes": "STOP",
+            "telephone_numbers": ["6616318", "6681607"]
+          },
+          {
+            "sr_no": 10,
+            "code": "00391",
+            "name": "DR. ZIAUDDIN HOSPITAL",
+            "address": "BLOCK-B, NORTH NAZIMABAD KARACHI.",
+            "notes": "STOP. FOR CORONARY ANGIOGRAPHY CASES ONLY",
+            "telephone_numbers": ["6648237-9"]
+          },
+          {
+            "sr_no": 11,
+            "code": "00389",
+            "name": "TIPU SULTAN SHAHEED HOSPITAL",
+            "address": "16-D, BLOCK-D, BARKAT-E-HYDARI KARACHI.",
+            "telephone_numbers": ["6634658", "6636000"]
+          }
+        ]
+      },
+      {
+        "area_name": "FEDERAL 'B' AREA",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00403",
+            "name": "AL-REHMAN GENERAL HOSPITAL",
+            "address": "14-D, BLOCK-II, FEDERAL 'B' AREA, KARACHI.",
+            "notes": "NEAR AISHA MANZIL, FOR CONFINMENT&SIMPLE CASES",
+            "telephone_numbers": ["686380", "682509"]
+          },
+          {
+            "sr_no": 2,
+            "code": "00449",
+            "name": "AZIZ TABBA DIALYSIS CENTRE",
+            "address": "CS-52/7, FEDERAL 'B' AREA, NEAR (AISHA MANZIL), KARACHI.",
+            "telephone_numbers": []
+          },
+          {
+            "sr_no": 3,
+            "code": "00405",
+            "name": "HABIB MEDICAL CENTRE",
+            "address": "BS/3,BLOCK-4, FEDERAL 'B' AREA, KARACHI.",
+            "telephone_numbers": ["686160", "672391-3"]
+          },
+          {
+            "sr_no": 4,
+            "code": "00397",
+            "name": "HIGHWAY MEDICAL CENTRE",
+            "address": "C-4,BLOCK-17,FEDERAL 'B' AREA, KARACHI.",
+            "notes": "SUPER HIGHWAY",
+            "telephone_numbers": ["682068", "683309"]
+          },
+          {
+            "sr_no": 5,
+            "code": "00394",
+            "name": "KARIMABAD PSYCHIATRIC CLINIC",
+            "address": "(BAZAR-E-FAISAL), 14-18 DOCTOR PLAZA, KARACHI.",
+            "telephone_numbers": ["683129"]
+          },
+          {
+            "sr_no": 6,
+            "code": "00447",
+            "name": "KHAN DENTAL CLINIC (DR. AIZAZ KHAN)",
+            "address": "AZMAT HOSPT. C-3 BLOCK-4, OPP.JAMAT KHANA, MAIN ROAD, KARACHI.",
+            "notes": "TIMING:10.00AM TO 2.00PM, 6.00PM TO 10.00PM",
+            "telephone_numbers": [
+              "6367979",
+              "6342022",
+              "RES:6341722",
+              "6344111"
+            ]
+          },
+          {
+            "sr_no": 7,
+            "code": "00467",
+            "name": "MAMJI HOSPITAL",
+            "address": "C-19, BLOCK-17, F.B.AREA, KARACHI-75950.",
+            "telephone_numbers": ["674666", "674777"]
+          },
+          {
+            "sr_no": 8,
+            "code": "00396",
+            "name": "MEDICON HOSPITAL",
+            "address": "KARIMABAD, KARACHI.",
+            "notes": "SUPER HIGHWAY",
+            "telephone_numbers": ["684719"]
+          },
+          {
+            "sr_no": 9,
+            "code": "00398",
+            "name": "MOTHERCARE & NURSING HOME",
+            "address": "AISHA MANZIL,OPP. ARSHI CINEMA SHAHRAH-E-PAKISTAN, F.B. AREA KARACHI.",
+            "notes": "SUPER HIGHWAY",
+            "telephone_numbers": ["676158", "686158"]
+          },
+          {
+            "sr_no": 10,
+            "code": "00406",
+            "name": "NAZ HOSPITAL & MATERNITY HOME",
+            "address": "ST-1/C, BLOCK-10, FEDERAL 'B' AREA, KARACHI.",
+            "telephone_numbers": ["686374"]
+          },
+          {
+            "sr_no": 11,
+            "code": "00404",
+            "name": "RAHIM HOSPITAL (GULBERG)",
+            "address": "C-38,BLOCK-13,FEDERAL 'B' AREA, KARACHI.",
+            "telephone_numbers": ["688855"]
+          },
+          {
+            "sr_no": 12,
+            "code": "00401",
+            "name": "SHADMAN GENERAL HOSPITAL & MATERNITY HOME",
+            "address": "B-7, RUKNUDDIN FLAT F.B. AREA, BLOCK-1 OPP. ALI ALI SCHOOL SHARIFABAD, KARACHI.",
+            "telephone_numbers": ["673178"]
+          },
+          {
+            "sr_no": 13,
+            "code": "00399",
+            "name": "TAJ EYE HOSPITAL",
+            "address": "C-288,BLOCK-2,FEDERAL 'B' AREA, KARACHI.",
+            "notes": "STOP, NEAR AISHA MANZIL",
+            "telephone_numbers": ["674838"]
+          },
+          {
+            "sr_no": 14,
+            "code": "00395",
+            "name": "USMAN MEMORIAL HOSPITAL",
+            "address": "ST-12,BLOCK-1,FEDERAL 'B' AREA, KARACHI.",
+            "telephone_numbers": ["681293", "681466"]
+          },
+          {
+            "sr_no": 15,
+            "code": "00402",
+            "name": "WAHAJ MEMORIAL HOSPITAL",
+            "address": "ST-1/D, BLOCK-9 MANSOORA FEDERAL 'B' AREA, KARACHI.",
+            "notes": "DASTAGIR SOCIETY",
+            "telephone_numbers": ["674182", "673978"]
+          },
+          {
+            "sr_no": 16,
+            "code": "00400",
+            "name": "ZAHOOR MEMORIAL HOSPITAL",
+            "address": "C-64,BLOCK-6,FEDERAL 'B' AREA, KARACHI.",
+            "notes": "NEAR AISHA MANZIL",
+            "telephone_numbers": ["672115"]
+          }
+        ]
+      },
+      {
+        "area_name": "NORTH KARACHI",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00455",
+            "name": "AUSAF POLY CLINIC",
+            "address": "MATERNITY CHILDREN & GENERAL, R-60, SECTOR 5C-11, KARACHI.",
+            "telephone_numbers": ["6991304"]
+          },
+          {
+            "sr_no": 2,
+            "code": "00408",
+            "name": "NORTH KARACHI HOSPITAL",
+            "address": "122-C, SECTOR 11-B NORTH KARACHI, KARACHI.",
+            "telephone_numbers": ["654776", "653666"]
+          },
+          {
+            "sr_no": 3,
+            "code": "00407",
+            "name": "NURSING MINOR & MATERNITY HOME",
+            "address": "SC-20, H-11, NORTH KARACHI KARACHI.",
+            "telephone_numbers": ["656424"]
+          },
+          {
+            "sr_no": 4,
+            "code": "00409",
+            "name": "SHAMS HOSPITAL & MATERNITY HOME",
+            "address": "81/1, AREA 5-D NORTH KARACHI, KARACHI.",
+            "telephone_numbers": ["652374"]
+          }
+        ]
+      },
+      {
+        "area_name": "SHAH FAISAL COLONY/MALIR",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00410",
+            "name": "A-1 HOSPITAL",
+            "address": "NATHA KHAN GOTH, DRIGH COLONY KARACHI.",
+            "telephone_numbers": ["4571995"]
+          },
+          {
+            "sr_no": 2,
+            "code": "00457",
+            "name": "AISHA GENERAL HOSPITAL",
+            "address": "1/9 SURVEY NO. 79, GOLDEN TOWN WIRELESS GATE, KARACHI",
+            "telephone_numbers": ["4591692"]
+          },
+          {
+            "sr_no": 3,
+            "code": "00419",
+            "name": "ALI MEDICAL COMPLEX",
+            "address": "STAR GATE, SHAHRAH-E-FAISAL KARACHI.",
+            "telephone_numbers": ["485000", "485002-3"]
+          },
+          {
+            "sr_no": 4,
+            "code": "00421",
+            "name": "BAJWA HOSPITAL & METERNITY HOME",
+            "address": "M.C. 347, GREEN TOWN, KARACHI.",
+            "telephone_numbers": ["485785"]
+          },
+          {
+            "sr_no": 5,
+            "code": "00411",
+            "name": "CITY HOSPITAL",
+            "address": "45-A/423, KALABOARD, MALIR KARACHI.",
+            "telephone_numbers": ["402460"]
+          },
+          {
+            "sr_no": 6,
+            "code": "00418",
+            "name": "E.N.T. HOSPITAL (DR. FASIULLAH MIR)",
+            "address": "A/28, KALABOARD, MALIR KARACHI.",
+            "telephone_numbers": ["404001", "403754"]
+          },
+          {
+            "sr_no": 7,
+            "code": "00448",
+            "name": "HASAN GENERAL HOSPITAL & MATERNITY HOME",
+            "address": "A-58 MALIR CITY, KARACHI.",
+            "telephone_numbers": ["4513000"]
+          },
+          {
+            "sr_no": 8,
+            "code": "00412",
+            "name": "JUNAID CLINIC",
+            "address": "JINNAH HOUSING SOCIETY KARACHI.",
+            "telephone_numbers": ["433035"]
+          },
+          {
+            "sr_no": 9,
+            "code": "00417",
+            "name": "NAILA CLINIC & MATERNITY HOME",
+            "address": "7/1, DRIGH COLONY, KARACHI.",
+            "telephone_numbers": ["485114"]
+          },
+          {
+            "sr_no": 10,
+            "code": "00413",
+            "name": "NEHAL HOSPITAL",
+            "address": "KALABOARD, MALIR, KARACHI.",
+            "telephone_numbers": ["404079"]
+          },
+          {
+            "sr_no": 11,
+            "code": "00416",
+            "name": "SAUDIA MEDICAL COMPLEX",
+            "address": "14-E, RAFA-I-AMM SOCIETY MALIR HALT, KARACHI.",
+            "telephone_numbers": ["485421"]
+          },
+          {
+            "sr_no": 12,
+            "code": "00414",
+            "name": "SHEERAZ MEDICAL CENTRE",
+            "address": "OPP: MODEL COLONY 1-A/1, STREET NO.10, KARACHI.",
+            "telephone_numbers": []
+          },
+          {
+            "sr_no": 13,
+            "code": "00415",
+            "name": "SINDH HOSPITAL & HEART CENTRE",
+            "address": "A-58, INDUS MEHRAN, MALIR KARACHI.",
+            "telephone_numbers": ["4514476"]
+          },
+          {
+            "sr_no": 14,
+            "code": "00420",
+            "name": "THE HOSPITAL & MATERNITY HOME",
+            "address": "SHAH FAISAL COLONY, KARACHI.",
+            "telephone_numbers": []
+          }
+        ]
+      },
+      {
+        "area_name": "P.E.C.H.S.",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00422",
+            "name": "AL-KIBRIYA HOSPITAL",
+            "address": "GHAZI SALAHUDDIN ROAD C.P. BERAR SOCIETY DHORAJI COLONY, KARACHI-74800.",
+            "telephone_numbers": ["4938247", "4938241", "4938243"]
+          },
+          {
+            "sr_no": 2,
+            "code": "00424",
+            "name": "AL-WAHAB HOSPITAL",
+            "address": "K-103/2, P.E.C.H.S. SHAHRAH-E-QUAIDEEN, KARACHI.",
+            "telephone_numbers": ["4550692"]
+          },
+          {
+            "sr_no": 3,
+            "code": "00425",
+            "name": "GHANI HOSPITAL",
+            "address": "280/C, KHUDA DAD COLONY SHAHRAH-E-QUAIDEEN, KARACHI.",
+            "telephone_numbers": ["419656"]
+          },
+          {
+            "sr_no": 4,
+            "code": "00427",
+            "name": "I.Q NEURO PSYCHIATRIC HOSPITAL",
+            "address": "S-188, SHAH ABDUL LATIF ROAD BLOCK-2, P.E.C.H.SOCIETY KARACHI.",
+            "telephone_numbers": ["446661", "436660"]
+          },
+          {
+            "sr_no": 5,
+            "code": "00452",
+            "name": "INSTITUTE OF CLINICAL OPHTHALMOLOGY (DR. M. MUKHTAR AHMED)",
+            "address": "241/3/A, BLOCK-2, SHAHRAH-E-QAUAIDEEN, PECHS, KARACHI.",
+            "notes": "FOR EYES CASES",
+            "telephone_numbers": [
+              "4556460",
+              "4550918",
+              "4558714",
+              "FAX: 021-4556151"
+            ]
+          },
+          {
+            "sr_no": 6,
+            "code": "00445",
+            "name": "MEHRAN CLINIC (PRIVATE) LTD.",
+            "address": "70-A, S.M.C.H.S., KARACHI.",
+            "telephone_numbers": ["4554308", "4554317"]
+          },
+          {
+            "sr_no": 7,
+            "code": "00423",
+            "name": "PASHA CLINIC",
+            "address": "191-E, BLOCK-2, P.E.C.H.S, NEAR KHAYYAM CENIMA, NURSARY, KARACHI-75400.",
+            "notes": "FOR MATERNITY CASES ONLY",
+            "telephone_numbers": ["4521302"]
+          },
+          {
+            "sr_no": 8,
+            "code": "00462",
+            "name": "PECHS TRAUMA & GEN. HOSPITAL",
+            "address": "IN BETWEEN ROW NO.258/1 & 1/4, OPP: AL-MURTAZA STADIUM, BLOCK-6, P.E.C.H.S., KARACHI-2906.",
+            "telephone_numbers": ["4310870-2"]
+          },
+          {
+            "sr_no": 9,
+            "code": "00426",
+            "name": "SURGEON MUNAWAR ALI MEMORIAL HOSPITAL",
+            "address": "159, BLOCK-3, SIRAJUDDULAH ROAD BAHADURABAD, KARACHI.",
+            "telephone_numbers": ["4924424", "492425", "492426"]
+          }
+        ]
+      },
+      {
+        "area_name": "LANDHI",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00429",
+            "name": "HAMID HOSPITAL (PVT.) LIMITED",
+            "address": "QUAIDABAD, LANDHI, KARACHI-22",
+            "telephone_numbers": ["330728", "330204", "330202"]
+          }
+        ]
+      },
+      {
+        "area_name": "KORANGI",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00431",
+            "name": "KORANGI LANDHI MEDICAL CENTRE (PVT.) LIMITED",
+            "address": "SECTOR 35-A, MAIN ROAD PLOT NO.13 & 13/1 KORANGI NO.5, KARACHI.",
+            "telephone_numbers": ["315588", "311964"]
+          },
+          {
+            "sr_no": 2,
+            "code": "00463",
+            "name": "MOTHER & CHILD MATERNITY AND GYNAECOLOGICAL HOSPITAL",
+            "address": "30/1, SECTOR-23, KORANGI INDUSTRIAL ZONE, KARACHI-74900.",
+            "telephone_numbers": ["5062927", "5062937", "FAX:5060528"]
+          },
+          {
+            "sr_no": 3,
+            "code": "00430",
+            "name": "MUBARIK CLINIC",
+            "address": "118/218, 2/B, AKHTAR COLONY KARACHI.",
+            "telephone_numbers": []
+          }
+        ]
+      },
+      {
+        "area_name": "CLIFTON",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00434",
+            "name": "CLIFTON NURSING HOME (DR. KISHWAR NAZLI MAHMOOD)",
+            "address": "UZMA ARCADE, 1ST FLOOR KHAYABAN-E-IQBAL, MAIN CLIFRON ROAD, KARACHI.",
+            "notes": "FOR GYNAECOLOGICAL CASES ONLY",
+            "telephone_numbers": ["5860608", "531220"]
+          },
+          {
+            "sr_no": 2,
+            "code": "00458",
+            "name": "HEART CENTRE AND SPECIALISTS CLINIC",
+            "address": "56-OLD CLIFTON, 6B-STREET, OPP. BRITISH CONSULATE, NEAR DO TALWAR, KARACHI-75600.",
+            "telephone_numbers": ["5875649", "5878189", "573706", "FAX:5830812"]
+          },
+          {
+            "sr_no": 3,
+            "code": "00433",
+            "name": "QAMARUL ISLAM HOSPITAL & DIAGNOSTIC CENTRE",
+            "address": "PUNJAB COLONY,KHAYABAN-E-JAMIL KARACHI.",
+            "telephone_numbers": ["531903", "532534"]
+          },
+          {
+            "sr_no": 4,
+            "code": "00432",
+            "name": "SINDH MEDICAL CENTRE",
+            "address": "1-H, BLOCK-7, KDA SCHEME-5 KHAYABAN-E-IQBAL, KARACHI.",
+            "telephone_numbers": ["5872638", "5872632", "5872643"]
+          },
+          {
+            "sr_no": 5,
+            "code": "00435",
+            "name": "MID EAST HOSPITAL",
+            "address": "KHAYABAN-E-IQBAL, KARACHI.",
+            "notes": "STOP",
+            "telephone_numbers": ["531272-6"]
+          }
+        ]
+      },
+      {
+        "area_name": "ORANGI TOWN",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00437",
+            "name": "AWAN HOSPITAL & MATERNITY HOME",
+            "address": "D-36, ORANGI TOWN, KARACHI.",
+            "telephone_numbers": ["625365"]
+          },
+          {
+            "sr_no": 2,
+            "code": "00436",
+            "name": "LIFECARE MEDICAL CENTRE",
+            "address": "NEAR POLICE STATION ORANGI TOWN, KARACHI.",
+            "telephone_numbers": ["6656300", "6652765"]
+          },
+          {
+            "sr_no": 3,
+            "code": "00440",
+            "name": "REHMAN HOSPITAL & MATERNITY-HOME",
+            "address": "A-100, BANARAS COLONY BACHA KHAN ROAD, ORANGI TOWN KARACHI.",
+            "telephone_numbers": ["6650858"]
+          }
+        ]
+      },
+      {
+        "area_name": "P.I.B. COLONY",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00438",
+            "name": "FIRASAT MEMORIAL HOSPITAL",
+            "address": "966, P.I.B. COLONY, KARACHI.",
+            "telephone_numbers": ["414337"]
+          }
+        ]
+      },
+      {
+        "area_name": "JAMSHED ROAD",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00450",
+            "name": "AL-HAFEEZ MEDICAL CENTRE",
+            "address": "147/2, HYDERABAD COLONY, OPPOSITE: CENTRAL JAIL, KARACHI.",
+            "notes": "FOR CONFINEMENT PURPOSE ONLY",
+            "telephone_numbers": ["4927680", "4949619"]
+          }
+        ]
+      },
+      {
+        "area_name": "KEAMARI",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00441",
+            "name": "DARUL SHIFA HOSPITAL & MATERNITY HOME",
+            "address": "PLOT NO.B-11, H-22, MASA AN ROAD, KEAMARI, KARACHI.",
+            "notes": "FOR MATERNITY PURPOSES & OPD IN EMERGENCY ONLY",
+            "telephone_numbers": ["271743"]
+          }
+        ]
+      },
+      {
+        "area_name": "HUB ROAD",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00442",
+            "name": "MURSHID HOSPITAL & HEALTH CARE CENTRE",
+            "address": "MUHAJID ABAD, HUB RIVER ROAD, KARACHI.",
+            "telephone_numbers": ["226596-98"]
+          }
+        ]
+      },
+      {
+        "area_name": "MAHMOODABAD",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00443",
+            "name": "AL-RAZI HOSPITAL & MATERNITY HOME",
+            "address": "MAHMOODABAD GATE, KARACHI.",
+            "telephone_numbers": ["542970", "5880865"]
+          }
+        ]
+      },
+      {
+        "area_name": "GULISTAN-E-JAUHAR",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00444",
+            "name": "DARUL SEHAT HOSPITAL",
+            "address": "ST-19, BLOCK-15, K.D.A.SCHEME NO.36, GULISTAN-E-JAUHAR, KARACHI.",
+            "telephone_numbers": ["8110271-7"]
+          }
+        ]
+      },
+      {
+        "area_name": "SHAHRA-E-FAISAL",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00451",
+            "name": "O.T. HOSPITAL (ORTHOPAEDIC & GENERAL)",
+            "address": "186/3 SHAHRA-E-FAISAL, OPP. AIRPORT TELEPHONE EXCHANGE, KARACHI.",
+            "notes": "STOPPED",
+            "telephone_numbers": ["4580660", "4580661", "4580662"]
+          }
+        ]
+      },
+      {
+        "area_name": "PIPRI (GULSHAN E HADID) KARACHI",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00456",
+            "name": "NASIMA MATERNITY & GENERAL HOSPITAL",
+            "address": "NASEERABAD ROAD, PIPRI, KARACHI",
+            "telephone_numbers": ["715351"]
+          }
+        ]
+      },
+      {
+        "area_name": "SHARA-E-QUAIDEEN",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00464",
+            "name": "CITY MEDICAL CENTRE",
+            "address": "ALLAH WALA ROUND ABOUT, FAREED BUKHARI SHAHEED ROAD, KARACHI.",
+            "telephone_numbers": ["4552007", "4555854", "4548458", "4549276"]
+          }
+        ]
+      },
+      {
+        "area_name": "DEFENCE HOUSING AUTHORITY",
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "code": "00465",
+            "name": "NATIONAL MEDICAL CENTRE (PVT.) LIMITED",
+            "address": "A-5/A. NATIONAL HIGHWAY, PHASE-1, D.H.A., KARACHI.",
+            "telephone_numbers": ["5380000 (10 LINES)"]
+          }
+        ]
+      }
+    ]
+  }
+}
