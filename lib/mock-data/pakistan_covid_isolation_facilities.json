@@ -1,0 +1,1250 @@
+{
+  "covid_isolation_facilities_pakistan": {
+    "grand_total_medical_facilities": 215,
+    "grand_total_beds": 2942,
+    "provinces_regions": {
+      "Islamabad": {
+        "total_medical_facilities": 1,
+        "total_beds": 10,
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "district": "Islamabad",
+            "hospital_name": "Pakistan Institute of Medical Sciences (PIMS)",
+            "beds": 10
+          }
+        ]
+      },
+      "Balochistan": {
+        "total_medical_facilities": 14,
+        "total_beds": 534,
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "district": "Chaghi",
+            "hospital_name": "BHU Dalbandin",
+            "beds": 4
+          },
+          {
+            "sr_no": 2,
+            "district": "Chaghi",
+            "hospital_name": "DHQ Hospital Dalbandin",
+            "beds": 10
+          },
+          {
+            "sr_no": 3,
+            "district": "Chaghi",
+            "hospital_name": "Pakistan House, Taftan",
+            "beds": 9
+          },
+          {
+            "sr_no": 4,
+            "district": "Panjgur",
+            "hospital_name": "DHQ Hospital Panjgur",
+            "beds": 12
+          },
+          {
+            "sr_no": 5,
+            "district": "Kech",
+            "hospital_name": "DHQ Hospital Kech",
+            "beds": 10
+          },
+          {
+            "sr_no": 6,
+            "district": "Gwadar",
+            "hospital_name": "GDA Hospital",
+            "beds": 10
+          },
+          {
+            "sr_no": 7,
+            "district": "Washuk",
+            "hospital_name": "DHQ Hospital Washuk",
+            "beds": 5
+          },
+          {
+            "sr_no": 8,
+            "district": "Chaman",
+            "hospital_name": "DHQ Hospital Chaman",
+            "beds": 10
+          },
+          {
+            "sr_no": 9,
+            "district": "Killa Abdullah",
+            "hospital_name": "DHQ Hospital Killa Abdullah",
+            "beds": 14
+          },
+          {
+            "sr_no": 10,
+            "district": "Killa Saifullah",
+            "hospital_name": "DHQ Hospital Killa Saifullah",
+            "beds": 15
+          },
+          {
+            "sr_no": 11,
+            "district": "Zhob",
+            "hospital_name": "DHQ Hospital and BHU Qamardin Karez",
+            "beds": 5
+          },
+          {
+            "sr_no": 12,
+            "district": "Quetta",
+            "hospital_name": "Sheikh Khalifa Bin Zayed Hospital",
+            "beds": 225
+          },
+          {
+            "sr_no": 13,
+            "district": "Quetta",
+            "hospital_name": "Fatima Jinnah General and Chest Hospital",
+            "beds": 200
+          },
+          {
+            "sr_no": 14,
+            "district": "Lasbella",
+            "hospital_name": "DHQ Hospital Lasbella",
+            "beds": 5
+          }
+        ]
+      },
+      "Khyber_Pakhtunkhwa": {
+        "total_medical_facilities": 110,
+        "total_beds": 856,
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "district": "Abbottabad",
+            "hospital_name": "DHQ Hospital Abbottabad",
+            "beds": 15
+          },
+          {
+            "sr_no": 2,
+            "district": "Abbottabad",
+            "hospital_name": "Ayub Teaching Hospital",
+            "beds": 24
+          },
+          {
+            "sr_no": 3,
+            "district": "Abbottabad",
+            "hospital_name": "Abbottabad Medical Complex",
+            "beds": 10
+          },
+          {
+            "sr_no": 4,
+            "district": "Abbottabad",
+            "hospital_name": "Gillani Hospital",
+            "beds": 5
+          },
+          {
+            "sr_no": 5,
+            "district": "Abbottabad",
+            "hospital_name": "Cat-D Hospital Havellian",
+            "beds": 5
+          },
+          {
+            "sr_no": 6,
+            "district": "Abbottabad",
+            "hospital_name": "Cat-D Hospital Lora",
+            "beds": 5
+          },
+          {
+            "sr_no": 7,
+            "district": "Abbottabad",
+            "hospital_name": "Cat-D Hospital Boi",
+            "beds": 5
+          },
+          {
+            "sr_no": 8,
+            "district": "Abbottabad",
+            "hospital_name": "Nathiagali",
+            "beds": 4
+          },
+          {
+            "sr_no": 9,
+            "district": "Abbottabad",
+            "hospital_name": "Khairagali",
+            "beds": 5
+          },
+          {
+            "sr_no": 10,
+            "district": "Abbottabad",
+            "hospital_name": "Sherwan",
+            "beds": 3
+          },
+          {
+            "sr_no": 11,
+            "district": "Bajaur",
+            "hospital_name": "DHQ Hospital Khar",
+            "beds": 8
+          },
+          {
+            "sr_no": 12,
+            "district": "Bannu",
+            "hospital_name": "DHQ Hospital Bannu",
+            "beds": 10
+          },
+          {
+            "sr_no": 13,
+            "district": "Bannu",
+            "hospital_name": "KGN Hospital Bannu",
+            "beds": 6
+          },
+          {
+            "sr_no": 14,
+            "district": "Bannu",
+            "hospital_name": "Type-D Hospital Kakki",
+            "beds": 4
+          },
+          {
+            "sr_no": 15,
+            "district": "Bannu",
+            "hospital_name": "Type-D Hospital Janni Khel",
+            "beds": 4
+          },
+          {
+            "sr_no": 16,
+            "district": "Bannu",
+            "hospital_name": "RHC Domel",
+            "beds": 3
+          },
+          {
+            "sr_no": 17,
+            "district": "Bannu",
+            "hospital_name": "RHC Ghori Wala",
+            "beds": 8
+          },
+          {
+            "sr_no": 18,
+            "district": "Battagram",
+            "hospital_name": "DHQ Hospital Battagram",
+            "beds": 10
+          },
+          {
+            "sr_no": 19,
+            "district": "Battagram",
+            "hospital_name": "Type-D Hospital Banna",
+            "beds": 5
+          },
+          {
+            "sr_no": 20,
+            "district": "Battagram",
+            "hospital_name": "RHC Thakot",
+            "beds": 4
+          },
+          {
+            "sr_no": 21,
+            "district": "Battagram",
+            "hospital_name": "Kozabanda",
+            "beds": 12
+          },
+          {
+            "sr_no": 22,
+            "district": "Buner",
+            "hospital_name": "DHQ Hospital Buner",
+            "beds": 4
+          },
+          {
+            "sr_no": 23,
+            "district": "Charsadda",
+            "hospital_name": "DHQ Hospital Charsadda",
+            "beds": 5
+          },
+          {
+            "sr_no": 24,
+            "district": "Charsadda",
+            "hospital_name": "THQ Hospital Shabqadar",
+            "beds": 2
+          },
+          {
+            "sr_no": 25,
+            "district": "Charsadda",
+            "hospital_name": "THQ Hospital Tangi",
+            "beds": 4
+          },
+          {
+            "sr_no": 26,
+            "district": "Charsadda",
+            "hospital_name": "Cat-D Hospital Jamalabad",
+            "beds": 3
+          },
+          {
+            "sr_no": 27,
+            "district": "Chitral",
+            "hospital_name": "DHQ Hospital Lower Chitral",
+            "beds": 4
+          },
+          {
+            "sr_no": 28,
+            "district": "Chitral",
+            "hospital_name": "Cat-D Hospital Booni",
+            "beds": 2
+          },
+          {
+            "sr_no": 29,
+            "district": "Chitral",
+            "hospital_name": "Cat-D Hospital Drosh",
+            "beds": 2
+          },
+          {
+            "sr_no": 30,
+            "district": "Chitral",
+            "hospital_name": "RHC Ayun",
+            "beds": 2
+          },
+          {
+            "sr_no": 31,
+            "district": "Chitral",
+            "hospital_name": "RHC Kaghozi",
+            "beds": 2
+          },
+          {
+            "sr_no": 32,
+            "district": "Dera Ismail Khan",
+            "hospital_name": "Mufti Mehmood Memorial Hospital",
+            "beds": 20
+          },
+          {
+            "sr_no": 33,
+            "district": "Dir Lower",
+            "hospital_name": "DHQ Hospital Timergara",
+            "beds": 15
+          },
+          {
+            "sr_no": 34,
+            "district": "Dir Lower",
+            "hospital_name": "THQ Chakdara",
+            "beds": 5
+          },
+          {
+            "sr_no": 35,
+            "district": "Dir Lower",
+            "hospital_name": "THQ Samar Bagh",
+            "beds": 5
+          },
+          {
+            "sr_no": 36,
+            "district": "Dir Lower",
+            "hospital_name": "Cat-D Hospital Wari",
+            "beds": 5
+          },
+          {
+            "sr_no": 37,
+            "district": "Dir Upper",
+            "hospital_name": "Cat-D Hospital Barawal",
+            "beds": 2
+          },
+          {
+            "sr_no": 38,
+            "district": "Hangu",
+            "hospital_name": "DHQ Hospital Hangu",
+            "beds": 5
+          },
+          {
+            "sr_no": 39,
+            "district": "Hangu",
+            "hospital_name": "Type-D Hospital Hangu",
+            "beds": 8
+          },
+          {
+            "sr_no": 40,
+            "district": "Hangu",
+            "hospital_name": "Type-D Hospital Thall",
+            "beds": 2
+          },
+          {
+            "sr_no": 41,
+            "district": "Hangu",
+            "hospital_name": "RHC Naryab",
+            "beds": 2
+          },
+          {
+            "sr_no": 42,
+            "district": "Hangu",
+            "hospital_name": "CH Doaba",
+            "beds": 2
+          },
+          {
+            "sr_no": 43,
+            "district": "Haripur",
+            "hospital_name": "Type-D Hospital Ghazi",
+            "beds": 6
+          },
+          {
+            "sr_no": 44,
+            "district": "Haripur",
+            "hospital_name": "Type-D Hospital Sarai Namat Khan",
+            "beds": 2
+          },
+          {
+            "sr_no": 45,
+            "district": "Haripur",
+            "hospital_name": "Type-D Hospital Khanpur",
+            "beds": 2
+          },
+          {
+            "sr_no": 46,
+            "district": "Haripur",
+            "hospital_name": "RHC Sirikot",
+            "beds": 2
+          },
+          {
+            "sr_no": 47,
+            "district": "Karak",
+            "hospital_name": "Cat-D Hospital Takt Nasrati",
+            "beds": 5
+          },
+          {
+            "sr_no": 48,
+            "district": "Karak",
+            "hospital_name": "Cat-D Hospital BD Shah",
+            "beds": 6
+          },
+          {
+            "sr_no": 49,
+            "district": "Karak",
+            "hospital_name": "Cat-D Hospital Sabirabad",
+            "beds": 5
+          },
+          {
+            "sr_no": 50,
+            "district": "Khyber",
+            "hospital_name": "DHQ Hospital Landikotal",
+            "beds": 15
+          },
+          {
+            "sr_no": 51,
+            "district": "Khyber",
+            "hospital_name": "THQ Hospital Dogra",
+            "beds": 10
+          },
+          {
+            "sr_no": 52,
+            "district": "Khyber",
+            "hospital_name": "Type-D Hospital Jamrud",
+            "beds": 10
+          },
+          {
+            "sr_no": 53,
+            "district": "Khyber",
+            "hospital_name": "Pak-Afghan Dosti Hospital Torkham",
+            "beds": 10
+          },
+          {
+            "sr_no": 54,
+            "district": "Kohat",
+            "hospital_name": "DHQ Hospital Kohat",
+            "beds": 10
+          },
+          {
+            "sr_no": 55,
+            "district": "Kohat",
+            "hospital_name": "Lachi",
+            "beds": 24
+          },
+          {
+            "sr_no": 56,
+            "district": "Kohat",
+            "hospital_name": "RHC Gumbat",
+            "beds": 16
+          },
+          {
+            "sr_no": 57,
+            "district": "Kohistan Upper",
+            "hospital_name": "RHC Dasu",
+            "beds": 2
+          },
+          {
+            "sr_no": 58,
+            "district": "Kohistan Lower",
+            "hospital_name": "THQ Hospital Pattan",
+            "beds": 12
+          },
+          {
+            "sr_no": 59,
+            "district": "Kohistan Lower",
+            "hospital_name": "RHC Ranlia",
+            "beds": 4
+          },
+          {
+            "sr_no": 60,
+            "district": "Kurram Lower",
+            "hospital_name": "THQ Hospital Sada",
+            "beds": 6
+          },
+          {
+            "sr_no": 61,
+            "district": "Kurram Lower",
+            "hospital_name": "BHU Alizai",
+            "beds": 10
+          },
+          {
+            "sr_no": 62,
+            "district": "Kurram Upper",
+            "hospital_name": "DHQ Hospital Parachinar",
+            "beds": 12
+          },
+          {
+            "sr_no": 63,
+            "district": "Lakki Marwat",
+            "hospital_name": "DHQ Hospital Lakki Marwat",
+            "beds": 10
+          },
+          {
+            "sr_no": 64,
+            "district": "Lakki Marwat",
+            "hospital_name": "Cat-C Hospital Lakki Marwat",
+            "beds": 5
+          },
+          {
+            "sr_no": 65,
+            "district": "Lakki Marwat",
+            "hospital_name": "Cat-C Hospital Sarai Naurang",
+            "beds": 4
+          },
+          {
+            "sr_no": 66,
+            "district": "Malakand",
+            "hospital_name": "DHQ Hospital Batkhela",
+            "beds": 10
+          },
+          {
+            "sr_no": 67,
+            "district": "Malakand",
+            "hospital_name": "THQ Hospital Dargai",
+            "beds": 10
+          },
+          {
+            "sr_no": 68,
+            "district": "Malakand",
+            "hospital_name": "Cat-D Hospital Thana",
+            "beds": 10
+          },
+          {
+            "sr_no": 69,
+            "district": "Malakand",
+            "hospital_name": "RHC Alladand",
+            "beds": 5
+          },
+          {
+            "sr_no": 70,
+            "district": "Malakand",
+            "hospital_name": "RHC Shahkot",
+            "beds": 5
+          },
+          {
+            "sr_no": 71,
+            "district": "Malakand",
+            "hospital_name": "RHC Palai",
+            "beds": 5
+          },
+          {
+            "sr_no": 72,
+            "district": "Malakand",
+            "hospital_name": "RHC Kot",
+            "beds": 5
+          },
+          {
+            "sr_no": 73,
+            "district": "Mansehra",
+            "hospital_name": "Type-D Hospital Balakot",
+            "beds": 2
+          },
+          {
+            "sr_no": 74,
+            "district": "Mansehra",
+            "hospital_name": "Type-D Gari Habibullah",
+            "beds": 2
+          },
+          {
+            "sr_no": 75,
+            "district": "Mansehra",
+            "hospital_name": "Type-D Baffa",
+            "beds": 2
+          },
+          {
+            "sr_no": 76,
+            "district": "Mansehra",
+            "hospital_name": "RHC Shinkiari",
+            "beds": 2
+          },
+          {
+            "sr_no": 77,
+            "district": "Mansehra",
+            "hospital_name": "RHC Chaltar",
+            "beds": 2
+          },
+          {
+            "sr_no": 78,
+            "district": "Mansehra",
+            "hospital_name": "RHC Battal",
+            "beds": 2
+          },
+          {
+            "sr_no": 79,
+            "district": "Mardan",
+            "hospital_name": "DHQ Hospital Mardan",
+            "beds": 6
+          },
+          {
+            "sr_no": 80,
+            "district": "Mardan",
+            "hospital_name": "Mardan Medical Complex (MMC)",
+            "beds": 5
+          },
+          {
+            "sr_no": 81,
+            "district": "Mardan",
+            "hospital_name": "THQ Hospital Takhtbai",
+            "beds": 10
+          },
+          {
+            "sr_no": 82,
+            "district": "Mohmand",
+            "hospital_name": "DHQ Hospital Ghalanai",
+            "beds": 10
+          },
+          {
+            "sr_no": 83,
+            "district": "North Waziristan",
+            "hospital_name": "DHQ Hospital Miranshah",
+            "beds": 10
+          },
+          {
+            "sr_no": 84,
+            "district": "North Waziristan",
+            "hospital_name": "THQ Hospital Mirali",
+            "beds": 10
+          },
+          {
+            "sr_no": 85,
+            "district": "South Waziristan",
+            "hospital_name": "DHQ Hospital Wana",
+            "beds": 8
+          },
+          {
+            "sr_no": 86,
+            "district": "Nowshera",
+            "hospital_name": "DHQ Hospital Nowshera",
+            "beds": 6
+          },
+          {
+            "sr_no": 87,
+            "district": "Nowshera",
+            "hospital_name": "Mian Rashid Hussain Shaheed Memorial Hospital Pabbi",
+            "beds": 6
+          },
+          {
+            "sr_no": 88,
+            "district": "Nowshera",
+            "hospital_name": "Cat-D Hospital Daag Ismail Khan",
+            "beds": 4
+          },
+          {
+            "sr_no": 89,
+            "district": "Nowshera",
+            "hospital_name": "Cat-D Hospital Akora Khattak",
+            "beds": 6
+          },
+          {
+            "sr_no": 90,
+            "district": "Nowshera",
+            "hospital_name": "Cat-D Hospital Ziarat Kaka Sb",
+            "beds": 6
+          },
+          {
+            "sr_no": 91,
+            "district": "Nowshera",
+            "hospital_name": "Cat-D Hospital Manki Sharif",
+            "beds": 4
+          },
+          {
+            "sr_no": 92,
+            "district": "Nowshera",
+            "hospital_name": "Qazi Hussain Ahmed Medical Centre",
+            "beds": 4
+          },
+          {
+            "sr_no": 93,
+            "district": "Orakzai",
+            "hospital_name": "DHQ Hospital Meshti Mela",
+            "beds": 24
+          },
+          {
+            "sr_no": 94,
+            "district": "Peshawar",
+            "hospital_name": "Lady Reading Hospital",
+            "beds": 10
+          },
+          {
+            "sr_no": 95,
+            "district": "Peshawar",
+            "hospital_name": "Khyber Teaching Hospital",
+            "beds": 20
+          },
+          {
+            "sr_no": 96,
+            "district": "Peshawar",
+            "hospital_name": "Hayatabad Medical Complex",
+            "beds": 5
+          },
+          {
+            "sr_no": 97,
+            "district": "Peshawar",
+            "hospital_name": "Services Hospital",
+            "beds": 60
+          },
+          {
+            "sr_no": 98,
+            "district": "Shangla",
+            "hospital_name": "DHQ Hospital Alpuri",
+            "beds": 5
+          },
+          {
+            "sr_no": 99,
+            "district": "Shangla",
+            "hospital_name": "THQ Hospital Besham",
+            "beds": 20
+          },
+          {
+            "sr_no": 100,
+            "district": "Swabi",
+            "hospital_name": "THQ Hospital Chota Lahore",
+            "beds": 20
+          },
+          {
+            "sr_no": 101,
+            "district": "Swabi",
+            "hospital_name": "Cat-C Hospital Topi",
+            "beds": 20
+          },
+          {
+            "sr_no": 102,
+            "district": "Swat",
+            "hospital_name": "Nawaz Sharif Kidney Hospital",
+            "beds": 6
+          },
+          {
+            "sr_no": 103,
+            "district": "Swat",
+            "hospital_name": "ZKS/THQ Hospital Matta",
+            "beds": 10
+          },
+          {
+            "sr_no": 104,
+            "district": "Swat",
+            "hospital_name": "THQ Hospital Khawazakhela",
+            "beds": 10
+          },
+          {
+            "sr_no": 105,
+            "district": "Swat",
+            "hospital_name": "Saidu Group of Teaching Hospitals",
+            "beds": 5
+          },
+          {
+            "sr_no": 106,
+            "district": "Tank",
+            "hospital_name": "DHQ Hospital Tank",
+            "beds": 10
+          },
+          {
+            "sr_no": 107,
+            "district": "Tank",
+            "hospital_name": "Cat-D Hospital Amakhel",
+            "beds": 10
+          },
+          {
+            "sr_no": 108,
+            "district": "Tank",
+            "hospital_name": "RHC Gul Imam",
+            "beds": 5
+          },
+          {
+            "sr_no": 109,
+            "district": "Tank",
+            "hospital_name": "RHC Gomal Bazaar",
+            "beds": 5
+          },
+          {
+            "sr_no": 110,
+            "district": "Tank",
+            "hospital_name": "BHU Kot Musa",
+            "beds": 10
+          }
+        ]
+      },
+      "Punjab": {
+        "total_medical_facilities": 50,
+        "total_beds": 955,
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "district": "Attock",
+            "hospital_name": "IYB Hospital Attock",
+            "beds": 13
+          },
+          {
+            "sr_no": 2,
+            "district": "Bahawalpur",
+            "hospital_name": "Victoria Hospital / Civil Hospital / RHC",
+            "beds": 15
+          },
+          {
+            "sr_no": 3,
+            "district": "Bahawalnagar",
+            "hospital_name": "DHQ Hospital Bahawalnagar",
+            "beds": 2
+          },
+          {
+            "sr_no": 4,
+            "district": "Bhakkar",
+            "hospital_name": "DHQ Hospital Bhakkar",
+            "beds": 10
+          },
+          {
+            "sr_no": 5,
+            "district": "Chakwal",
+            "hospital_name": "DHQ Hospital Chakwal",
+            "beds": 65
+          },
+          {
+            "sr_no": 6,
+            "district": "Chiniot",
+            "hospital_name": "DHQ Hospital Chiniot",
+            "beds": 6
+          },
+          {
+            "sr_no": 7,
+            "district": "Dera Ghazi Khan",
+            "hospital_name": "DHQ Hospital D.G. Khan",
+            "beds": 20
+          },
+          {
+            "sr_no": 8,
+            "district": "Faisalabad",
+            "hospital_name": "Allied Hospital / DHQ Hospital Faisalabad",
+            "beds": 47
+          },
+          {
+            "sr_no": 9,
+            "district": "Gujrat",
+            "hospital_name": "Aziz Bhatti Shaheed Teaching Hospital",
+            "beds": 1
+          },
+          {
+            "sr_no": 10,
+            "district": "Hafizabad",
+            "hospital_name": "DHQ/THQ Hospital Hafizabad",
+            "beds": 18
+          },
+          {
+            "sr_no": 11,
+            "district": "Jhang",
+            "hospital_name": "DHQ/THQ Hospital Jhang",
+            "beds": 35
+          },
+          {
+            "sr_no": 12,
+            "district": "Jhelum",
+            "hospital_name": "DHQ Hospital Jhelum",
+            "beds": 5
+          },
+          {
+            "sr_no": 13,
+            "district": "Kasur",
+            "hospital_name": "DHQ Hospital Kasur",
+            "beds": 3
+          },
+          {
+            "sr_no": 14,
+            "district": "Khanewal",
+            "hospital_name": "DHQ Hospital Khanewal",
+            "beds": 20
+          },
+          {
+            "sr_no": 15,
+            "district": "Lahore",
+            "hospital_name": "Services Hospital",
+            "beds": 20
+          },
+          {
+            "sr_no": 16,
+            "district": "Layyah",
+            "hospital_name": "DHQ Hospital Layyah / RHC",
+            "beds": 10
+          },
+          {
+            "sr_no": 17,
+            "district": "Lodhran",
+            "hospital_name": "DHQ Hospital Lodhran",
+            "beds": 20
+          },
+          {
+            "sr_no": 18,
+            "district": "Mandibahauddin",
+            "hospital_name": "DHQ Hospital Mandibahauddin / RHC",
+            "beds": 4
+          },
+          {
+            "sr_no": 19,
+            "district": "Mianwali",
+            "hospital_name": "DHQ Hospital Mianwali",
+            "beds": 9
+          },
+          {
+            "sr_no": 20,
+            "district": "Multan",
+            "hospital_name": "DHQ Hospital Multan / Nishtar Hospital",
+            "beds": 45
+          },
+          {
+            "sr_no": 21,
+            "district": "Muzaffargarh",
+            "hospital_name": "DHQ Hospital Muzaffargarh",
+            "beds": 9
+          },
+          {
+            "sr_no": 22,
+            "district": "Muzaffargarh",
+            "hospital_name": "Erdogan Hospital",
+            "beds": 400
+          },
+          {
+            "sr_no": 23,
+            "district": "Nankanasahib",
+            "hospital_name": "DHQ Hospital Nankanasahib / RHC",
+            "beds": 6
+          },
+          {
+            "sr_no": 24,
+            "district": "Narowal",
+            "hospital_name": "DHQ/THQ Hospital Narowal / RHC",
+            "beds": 12
+          },
+          {
+            "sr_no": 25,
+            "district": "Okara",
+            "hospital_name": "DHQ Hospital Okara",
+            "beds": 36
+          },
+          {
+            "sr_no": 26,
+            "district": "Pakpattan",
+            "hospital_name": "DHQ Hospital Pakpattan",
+            "beds": 15
+          },
+          {
+            "sr_no": 27,
+            "district": "Rajanpur",
+            "hospital_name": "DHQ Hospital Rajanpur",
+            "beds": 4
+          },
+          {
+            "sr_no": 28,
+            "district": "Rawalpindi",
+            "hospital_name": "Benazir Bhutto Hospital / Institute of Urology",
+            "beds": 50
+          },
+          {
+            "sr_no": 29,
+            "district": "Rahim Yar Khan",
+            "hospital_name": "SZ Hospital /THQ",
+            "beds": 10
+          },
+          {
+            "sr_no": 30,
+            "district": "Sahiwal",
+            "hospital_name": "DHQ/THQ Hospital Sahiwal / RHC",
+            "beds": 15
+          },
+          {
+            "sr_no": 31,
+            "district": "Rajanpur",
+            "hospital_name": "DHQ Hospital Rajanpur",
+            "beds": 4
+          },
+          {
+            "sr_no": 32,
+            "district": "Sargodha",
+            "hospital_name": "DHQ Hospital Sargodha / RHC",
+            "beds": 7
+          },
+          {
+            "sr_no": 33,
+            "district": "Sheikhupura",
+            "hospital_name": "DHQ Hospital Sheikhupura / RHC",
+            "beds": 5
+          },
+          {
+            "sr_no": 34,
+            "district": "Sialkot",
+            "hospital_name": "Allama Iqbal Teaching Hospital",
+            "beds": 10
+          },
+          {
+            "sr_no": 35,
+            "district": "Toba Tek Singh",
+            "hospital_name": "DHQ Hospital Toba Tek Singh",
+            "beds": 4
+          }
+        ]
+      },
+      "Sindh": {
+        "total_medical_facilities": 4,
+        "total_beds": 151,
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "district": "Jacobabad",
+            "hospital_name": "Jacobabad Medical Institute of Sciences (JMIS)",
+            "beds": 3
+          },
+          {
+            "sr_no": 2,
+            "district": "Khairpur",
+            "hospital_name": "DHQ Hospital Khairpur",
+            "beds": 10
+          },
+          {
+            "sr_no": 3,
+            "district": "Khairpur",
+            "hospital_name": "Gambat Institute of Medical Sciences (GIMS)",
+            "beds": 8
+          },
+          {
+            "sr_no": 4,
+            "district": "Karachi",
+            "hospital_name": "Gudapp Hospital",
+            "beds": 120
+          },
+          {
+            "sr_no": 5,
+            "district": "Sukkur",
+            "hospital_name": "Sukkur Civil Hospital",
+            "beds": 10
+          }
+        ]
+      },
+      "Azad_Jammu_Kashmir": {
+        "total_medical_facilities": 15,
+        "total_beds": 310,
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "district": "Muzaffarabad",
+            "hospital_name": "Aims Muzaffarabad",
+            "beds": 10
+          },
+          {
+            "sr_no": 2,
+            "district": "Muzaffarabad",
+            "hospital_name": "SKBZ Hospital",
+            "beds": 10
+          },
+          {
+            "sr_no": 3,
+            "district": "Muzaffarabad",
+            "hospital_name": "Civil Military Hospital",
+            "beds": 10
+          },
+          {
+            "sr_no": 4,
+            "district": "Mirpur",
+            "hospital_name": "Divisional Headquarter Hospital",
+            "beds": 10
+          },
+          {
+            "sr_no": 5,
+            "district": "Mirpur",
+            "hospital_name": "New City Hospital",
+            "beds": 50
+          },
+          {
+            "sr_no": 6,
+            "district": "Hattian Bala",
+            "hospital_name": "DHQ Hospital Hattian Bala",
+            "beds": 10
+          },
+          {
+            "sr_no": 7,
+            "district": "Neelum",
+            "hospital_name": "DHQ Hospital Neelum",
+            "beds": 10
+          },
+          {
+            "sr_no": 8,
+            "district": "Bagh",
+            "hospital_name": "DHQ Hospital Bagh",
+            "beds": 10
+          },
+          {
+            "sr_no": 9,
+            "district": "Bagh",
+            "hospital_name": "Chest Diseases General Hospital Hills",
+            "beds": 50
+          },
+          {
+            "sr_no": 10,
+            "district": "Haveli",
+            "hospital_name": "DHQ Hospital Haveli",
+            "beds": 10
+          },
+          {
+            "sr_no": 11,
+            "district": "Sudhnoti",
+            "hospital_name": "DHQ Hospital Sudhnoti",
+            "beds": 10
+          },
+          {
+            "sr_no": 12,
+            "district": "Bhimber",
+            "hospital_name": "DHQ Hospital Bhimber",
+            "beds": 10
+          },
+          {
+            "sr_no": 13,
+            "district": "Kotli",
+            "hospital_name": "DHQ Hospital Kotli",
+            "beds": 10
+          },
+          {
+            "sr_no": 14,
+            "district": "Kotli",
+            "hospital_name": "2 x Hospital",
+            "beds": 100
+          }
+        ]
+      },
+      "Gilgit_Baltistan": {
+        "total_medical_facilities": 21,
+        "total_beds": 126,
+        "hospitals": [
+          {
+            "sr_no": 1,
+            "district": "Gilgit",
+            "hospital_name": "Civil Hospital Basin",
+            "beds": 7
+          },
+          {
+            "sr_no": 2,
+            "district": "Gilgit",
+            "hospital_name": "Mohammadabad Hospital, Danyore",
+            "beds": 7
+          },
+          {
+            "sr_no": 3,
+            "district": "Gilgit",
+            "hospital_name": "Combined Military Hospital (CMH), Gilgit",
+            "beds": 20
+          },
+          {
+            "sr_no": 4,
+            "district": "Gilgit",
+            "hospital_name": "PHQ Hospital Gilgit",
+            "beds": 5
+          },
+          {
+            "sr_no": 5,
+            "district": "Gilgit",
+            "hospital_name": "City Hospital Gilgit",
+            "beds": 5
+          },
+          {
+            "sr_no": 6,
+            "district": "Gilgit",
+            "hospital_name": "Leprosy Centre Ampary Gilgit",
+            "beds": 4
+          },
+          {
+            "sr_no": 7,
+            "district": "Gilgit",
+            "hospital_name": "Psychiatry Hospital Jutial",
+            "beds": 5
+          },
+          {
+            "sr_no": 8,
+            "district": "Gilgit",
+            "hospital_name": "Agha Khan Health Services Gilgit",
+            "beds": 3
+          },
+          {
+            "sr_no": 9,
+            "district": "Gilgit",
+            "hospital_name": "Sehat Foundation",
+            "beds": 2
+          },
+          {
+            "sr_no": 10,
+            "district": "Gilgit",
+            "hospital_name": "Family Planning Gilgit",
+            "beds": 1
+          },
+          {
+            "sr_no": 11,
+            "district": "Hunza",
+            "hospital_name": "Civil Hospital Karimabad",
+            "beds": 5
+          },
+          {
+            "sr_no": 12,
+            "district": "Nagar",
+            "hospital_name": "Civil Hospital Nagar",
+            "beds": 5
+          },
+          {
+            "sr_no": 13,
+            "district": "Diamer",
+            "hospital_name": "DHQ Hospital Chilas",
+            "beds": 10
+          },
+          {
+            "sr_no": 14,
+            "district": "Astore",
+            "hospital_name": "DHQ Hospital Astore",
+            "beds": 5
+          },
+          {
+            "sr_no": 15,
+            "district": "Ghizer",
+            "hospital_name": "DHQ Hospital Ghizer",
+            "beds": 5
+          },
+          {
+            "sr_no": 16,
+            "district": "Kharmang",
+            "hospital_name": "Civil Hospital Kharmang",
+            "beds": 5
+          },
+          {
+            "sr_no": 17,
+            "district": "Ghanche",
+            "hospital_name": "BHU Barah",
+            "beds": 5
+          },
+          {
+            "sr_no": 18,
+            "district": "Skardu",
+            "hospital_name": "Benazir Hospital Gamba",
+            "beds": 5
+          },
+          {
+            "sr_no": 19,
+            "district": "Skardu",
+            "hospital_name": "New Govt Building, Agha Hadi Chowk, Skardu",
+            "beds": 7
+          },
+          {
+            "sr_no": 20,
+            "district": "Skardu",
+            "hospital_name": "Mid-wifery School Skardu",
+            "beds": 10
+          },
+          {
+            "sr_no": 21,
+            "district": "Shigar",
+            "hospital_name": "RHC Shigar",
+            "beds": 5
+          }
+        ]
+      }
+    }
+  }
+}
